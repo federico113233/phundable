@@ -1,0 +1,40 @@
+{
+  "_comment": "Paying partner funders. Deliberately SEPARATE from funders.enriched.json so that re-running tools/enrich.py (which regenerates that file wholesale) can never wipe commercial data. Pricing is quoted per organisation, so no price is stored here.",
+  "partners": {
+    "corp-auchan": {
+      "logo": "assets/partners/auchan.jpg",
+      "display_name": "Fondation Auchan pour la Jeunesse",
+      "since": "2026-09"
+    },
+    "corp-carrefour": {
+      "logo": "assets/partners/carrefour.jpg",
+      "display_name": "Fondation d'entreprise Carrefour",
+      "since": "2026-09"
+    },
+    "corp-m6": {
+      "logo": "assets/partners/m6.jpg",
+      "display_name": "Fondation Groupe M6",
+      "since": "2026-09"
+    },
+    "corp-airfrance": {
+      "logo": "assets/partners/airfrance.jpg",
+      "display_name": "Fondation d'entreprise Air France",
+      "since": "2026-09"
+    },
+    "corp-ca-regional": {
+      "logo": "assets/partners/credit-agricole.jpg",
+      "display_name": "Fondation Crédit Agricole Pays de France",
+      "since": "2026-09"
+    },
+    "corp-bouygues": {
+      "logo": "assets/partners/bouygues.jpg",
+      "display_name": "Fondation Bouygues Telecom",
+      "since": "2026-09"
+    },
+    "corp-picard": {
+      "logo": "assets/partners/picard.jpg",
+      "display_name": "Fondation Picard",
+      "since": "2026-09"
+    }
+  }
+}

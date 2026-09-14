@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Phundable</title>
+<link rel="icon" href="assets/logos/favicon-192.png" />
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="inner">
+    <a class="brand" href="#/">
+      <img src="assets/logos/logo-phenix-black.svg" alt="Phenix" />
+      <span class="sep"></span>
+      <span class="app-name" data-i18n="app.name">Phundable</span>
+    </a>
+    <div class="header-actions">
+      <a class="btn btn-ghost btn-sm" href="#/for-companies" data-i18n="comp.nav">Pour les entreprises</a>
+      <a class="btn btn-ghost btn-sm" href="#/onboarding" id="nav-profile" data-i18n="nav.restart" hidden>Modifier mon profil</a>
+      <a class="btn btn-secondary btn-sm" href="#/dashboard" id="nav-dash" data-i18n="nav.dashboard" hidden>Tableau de bord</a>
+      <div class="lang-toggle" role="group" aria-label="Language">
+        <button type="button" data-lang="fr">FR</button>
+        <button type="button" data-lang="en">EN</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main id="view">
+  <div class="loading"><span class="spinner dark"></span> <span data-i18n="common.loading">Chargement…</span></div>
+</main>
+
+<footer class="site-footer">
+  <div class="container row">
+    <div>
+      <img src="assets/logos/logo-phenix-red-footer.svg" alt="Phenix" />
+      <div data-i18n="footer.note"></div>
+    </div>
+    <div>© 2026 Phenix</div>
+  </div>
+</footer>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

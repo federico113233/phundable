@@ -1,0 +1,12 @@
+# secrets — never commit
+server/.env
+.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# runtime data
+server/data/profile.json
+server/data/generated/

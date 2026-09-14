@@ -1,0 +1,3322 @@
+[
+ {
+  "id": "corp-carrefour",
+  "name": "Ensemble pour la Transition Alimentaire (+ Étudiants & Innovation alimentaire)",
+  "organization": "Fondation d'entreprise Carrefour (avec Carmila)",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "medium",
+  "official_link": "https://www.fondation-carrefour.org/",
+  "source_verified_url": "https://www.fondation-carrefour.org/ ; https://www.ess-france.org/system/files/inline-files/RGLEME~1.PDF",
+  "sector_focus_en": "Food transition, sustainable and solidarity-based food, fight against food waste",
+  "eligible_org_type_en": "Associations governed by the 1901 law / structures of general interest",
+  "funding_range_en": "Not publicly disclosed (amounts vary per edition)",
+  "deadline_cycle_en": "Annual (dates vary by edition)",
+  "notes_en": "Two components identified: 'Together for the Food Transition' and 'Students & Food Innovation'. Financial details not confirmed by fetch direct (page blocked) - verify on the official website before use in production.",
+  "funding_type_en": "Grant",
+  "geography_en": "France (+ Carrefour countries via local branches)",
+  "cause_areas": [
+   "food_waste",
+   "food_security",
+   "environment",
+   "circular_economy",
+   "social_inclusion",
+   "education",
+   "youth",
+   "poverty",
+   "climate"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit online application during the open period"
+  ],
+  "application_steps_fr": [
+   "Soumettre la candidature en ligne pendant la période d'ouverture"
+  ],
+  "required_documents_en": [
+   "articles of association",
+   "bank details",
+   "provisional budget",
+   "project presentation"
+  ],
+  "required_documents_fr": [
+   "statuts",
+   "coordonnées bancaires",
+   "budget prévisionnel",
+   "présentation du projet"
+  ],
+  "sector_focus_fr": "Transition alimentaire, alimentation durable et solidaire, lutte contre le gaspillage alimentaire",
+  "eligible_org_type_fr": "Associations régies par la loi de 1901 / structures d'intérêt général",
+  "funding_range_fr": "Non communiqué publiquement (les montants varient selon l'édition)",
+  "deadline_cycle_fr": "Appel annuel (dates variables selon l'édition)",
+  "notes_fr": "Deux composantes identifiées : « Ensemble pour la Transition Alimentaire » et « Étudiants & Innovation Alimentaire ». Les détails financiers ne sont pas confirmés (page bloquée) – vérifier sur le site officiel avant utilisation en production.",
+  "summary_en": "The Carrefour corporate foundation offers annual grant funding for French 1901 associations working on food transition, sustainable and solidarity food, and food waste reduction.",
+  "summary_fr": "La fondation d’entreprise Carrefour propose chaque année des subventions aux associations françaises de droit 1901 œuvrant pour la transition alimentaire, l’alimentation durable et solidaire ainsi que la réduction du gaspillage alimentaire.",
+  "_hash": "2c7e43ac5b3d782e",
+  "amount_disclosed": false
+ },
+ {
+  "id": "priv-carasso",
+  "name": "Appels a projets - Alimentation durable / Nourrir l'avenir",
+  "organization": "Fondation Daniel et Nina Carasso",
+  "source_type": "private_foundation",
+  "categories": [
+   "private_funding"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "medium",
+  "official_link": "https://fondationcarasso.org/appels-a-projets/",
+  "source_verified_url": "https://fondationcarasso.org/appels-a-projets/ ; https://www.fondationcarasso.org/transverse/espagne-la-fondation-celebre-10-ans-dengagement-pour-lalimentation-durable-et-lart-citoyen/",
+  "sector_focus_en": "Transformation of food systems / sustainable food (the 'citizen art' aspect is not relevant here)",
+  "eligible_org_type_en": "Associations, research structures, communities according to the call",
+  "funding_range_en": "Not confirmed in the pages consulted",
+  "deadline_cycle_en": "Several calls per year, specific dates per theme",
+  "notes_en": "A rare example of a foundation present in both France and Spain, exactly the perimeter of Phenix - a good candidate for a cross-border match.",
+  "funding_type_en": "Grant",
+  "geography_en": "France AND Spain (foundation active in both countries - celebrating 10 years of commitment in Spain)",
+  "cause_areas": [
+   "food_security",
+   "food_waste",
+   "environment",
+   "circular_economy",
+   "climate"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit your project via the online portal (fondationcarasso.org)"
+  ],
+  "application_steps_fr": [
+   "Soumettre votre projet via le portail en ligne (fondationcarasso.org)"
+  ],
+  "required_documents_en": [
+   "Variable depending on the call (not publicly detailed)"
+  ],
+  "required_documents_fr": [
+   "Variable selon l'appel - non détaillé publiquement"
+  ],
+  "sector_focus_fr": "Transformation des systèmes alimentaires / alimentation durable",
+  "eligible_org_type_fr": "Associations, structures de recherche, communautés selon l'appel",
+  "funding_range_fr": "Non confirmé dans les pages consultées",
+  "deadline_cycle_fr": "Plusieurs appels par an, dates spécifiques selon le thème",
+  "notes_fr": "Exemple rare d'une fondation présente à la fois en France et en Espagne, correspondant exactement au périmètre de Phenix - un bon candidat pour un appariement transfrontalier.",
+  "summary_en": "The Fondation Daniel et Nina Carasso offers grant funding for projects that transform food systems and promote sustainable food, open to associations, research bodies and community groups in France and Spain.",
+  "summary_fr": "La Fondation Daniel et Nina Carasso propose des subventions pour des projets visant à transformer les systèmes alimentaires et à promouvoir une alimentation durable, ouvertes aux associations, structures de recherche et communautés en France et en Espagne.",
+  "_hash": "56c9150f7d26bf6b",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-bel",
+  "name": "Fondation Bel - appel a projets nutrition infantile",
+  "organization": "Groupe Bel (gere via Humanis)",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "high",
+  "official_link": "https://www.fondation-bel.org/",
+  "source_verified_url": "https://www.humanis.org/fondation-bel/",
+  "sector_focus_en": "Infant nutrition, combating malnutrition, subsistence farming, food education",
+  "eligible_org_type_en": "Structures of general interest",
+  "funding_range_en": "5,000 EUR to 25,000 EUR per project",
+  "deadline_cycle_en": "Annual (e.g., closing mid-March, results in May - to be reconfirmed each year)",
+  "notes_en": "One of the few funders to publish a clear amount range (5-25k EUR) - good concrete example for the demo.",
+  "funding_type_en": "Grant",
+  "geography_en": "Countries where Bel is established (France + international)",
+  "cause_areas": [
+   "food_security",
+   "health",
+   "education"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": 5000,
+  "grant_max_eur": 25000,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit online application via demandes.fondation-bel.org",
+   "Selection by the Board of Directors"
+  ],
+  "application_steps_fr": [
+   "Soumettre la candidature en ligne via demandes.fondation-bel.org",
+   "Sélection par le Conseil d'administration"
+  ],
+  "required_documents_en": [
+   "Online application form"
+  ],
+  "required_documents_fr": [
+   "Formulaire de candidature en ligne"
+  ],
+  "sector_focus_fr": "Nutrition infantile, lutte contre la malnutrition, agriculture de subsistance, éducation alimentaire",
+  "eligible_org_type_fr": "Structures d'intérêt général",
+  "funding_range_fr": "5 000 EUR à 25 000 EUR par projet",
+  "deadline_cycle_fr": "Annuel (par ex. clôture mi-mars, résultats en mai - à reconfirmer chaque année)",
+  "notes_fr": "L'un des rares bailleurs à publier une fourchette de montants claire (5-25k EUR) - bon exemple concret pour la démonstration.",
+  "summary_en": "The Fondation Bel offers grants of €5,000‑€25,000 to support infant nutrition, malnutrition prevention, subsistence farming and food education projects, targeting organisations of general interest.",
+  "summary_fr": "La Fondation Bel propose des subventions de 5 000 à 25 000 EUR pour soutenir des projets de nutrition infantile, de lutte contre la malnutrition, d'agriculture de subsistance et d'éducation alimentaire, destinés aux structures d'intérêt général.",
+  "_hash": "eedca1d9cf9a65e3",
+  "amount_disclosed": true
+ },
+ {
+  "id": "corp-auchan",
+  "name": "Fondation Auchan pour la Jeunesse",
+  "organization": "Auchan Retail France",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding",
+   "csr_programs"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "medium",
+  "official_link": "https://www.auchan-retail.com/fr/notre-fondation/",
+  "source_verified_url": "https://www.fondationdefrance.org/fr/annuaire-des-fondations/fondation-auchan",
+  "sector_focus_en": "Access to quality food, combating malnutrition, social connection around meals",
+  "eligible_org_type_en": "Non-profit organizations",
+  "funding_range_en": "No communication",
+  "deadline_cycle_en": "Varies depending on the country committee",
+  "notes_en": "Requires sponsorship by an Auchan employee - especially useful if the association already has a contact at Auchan (e.g., via a Phenix store partnership).",
+  "funding_type_en": "Grant",
+  "geography_en": "France + countries where Auchan has a presence",
+  "cause_areas": [
+   "food_security",
+   "health",
+   "social_inclusion",
+   "poverty"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "rolling",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Jointly lead project with an Auchan employee and the association",
+   "Evaluation by a country committee"
+  ],
+  "application_steps_fr": [
+   "Mener conjointement le projet avec un employé d'Auchan et l'association",
+   "Évaluation par un comité pays"
+  ],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Accès à une alimentation de qualité, lutte contre la malnutrition, lien social autour des repas",
+  "eligible_org_type_fr": "Organisations à but non lucratif",
+  "funding_range_fr": "Pas de communication",
+  "deadline_cycle_fr": "Varie selon le comité pays",
+  "notes_fr": "Nécessite le parrainage d'un employé d'Auchan - particulièrement utile si l'association a déjà un contact chez Auchan (par exemple via un partenariat avec un magasin Phenix).",
+  "summary_en": "The Fondation Auchan pour la Jeunesse provides grant funding to non‑profit organisations in France and other Auchan‑present countries for projects that improve access to quality food, fight malnutrition and foster social connections around meals, requiring sponsorship by an Auchan employee.",
+  "summary_fr": "La Fondation Auchan pour la Jeunesse offre des subventions aux organisations à but non lucratif en France et dans les pays où Auchan est présent pour des projets visant à améliorer l'accès à une alimentation de qualité, lutter contre la malnutrition et favoriser le lien social autour des repas, nécessitant le parrainage d'un employé d'Auchan.",
+  "_hash": "999c875b8aebdbe9",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-nestle",
+  "name": "Nourrir les possibles / Programme Alimentation et Insertion",
+  "organization": "Fondation Nestle France",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding",
+   "csr_programs"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "medium",
+  "official_link": "https://fondation.nestle.fr/",
+  "source_verified_url": "https://fondationnestle.ulule.com/ ; https://cress.corsica/fondation-nestle-france-ulule-nourrir-les-possibles/",
+  "sector_focus_en": "Food and social inclusion, student food aid, French food culture",
+  "eligible_org_type_en": "Associations",
+  "funding_range_en": "Not confirmed",
+  "deadline_cycle_en": "Annual - an edition cited as closed on April 13, 2026",
+  "notes_en": "The specific 'Food and Integration' program targets food aid by and for students - relevant if the persona includes student associations.",
+  "funding_type_en": "Grant + crowdfunding matching ('Nourrir les possibles' program with Ulule)",
+  "geography_en": "France",
+  "cause_areas": [
+   "food_security",
+   "social_inclusion",
+   "youth",
+   "culture",
+   "poverty",
+   "education"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant",
+   "matching"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit application via the dedicated Ulule platform"
+  ],
+  "application_steps_fr": [
+   "Soumettre la candidature via la plateforme Ulule dédiée"
+  ],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Alimentation et inclusion sociale, aide alimentaire aux étudiants, culture alimentaire française",
+  "eligible_org_type_fr": "Associations",
+  "funding_range_fr": "Non confirmé",
+  "deadline_cycle_fr": "Appel annuel - une édition clôturée le 13 avril 2026",
+  "notes_fr": "Le programme spécifique « Alimentation et Intégration » cible l'aide alimentaire pour et par les étudiants – pertinent si le profil inclut des associations étudiantes.",
+  "summary_en": "The Fondation Nestlé France provides grants and crowdfunding matching to associations delivering food aid and social inclusion projects for students across France.",
+  "summary_fr": "La Fondation Nestlé France offre des subventions et un financement participatif en contrepartie aux associations menant des projets d'aide alimentaire et d'inclusion sociale pour les étudiants en France.",
+  "_hash": "dfdf7a059d3f2618",
+  "amount_disclosed": false
+ },
+ {
+  "id": "csr-sodexo-stophunger",
+  "name": "Stop Hunger France",
+  "organization": "Sodexo",
+  "source_type": "csr_program",
+  "categories": [
+   "csr_programs"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "low-for-small-orgs",
+  "official_link": "https://www.sodexo.fr/responsabilite-entreprise/croissance-inclusive-responsable/stop-hunger",
+  "source_verified_url": "https://www.sodexo.fr/responsabilite-entreprise/croissance-inclusive-responsable/stop-hunger",
+  "sector_focus_en": "Fighting hunger, redistribution of surplus food from institutional catering",
+  "eligible_org_type_en": "Primarily large federations (with established partnerships with FFBA and Restos du Coeur) rather than small, isolated associations.",
+  "funding_range_en": "Not structured like a classic grant",
+  "deadline_cycle_en": "Continuous / Event-driven",
+  "notes_en": "WARNING: Not a truly accessible landlord for a small, isolated association – especially if partnered with large federations. Include it for matching purposes, but with a 'probably indirect access' flag.",
+  "funding_type_en": "In-kind donations (surpluses), one-off financial donations, employee volunteering",
+  "geography_en": "France (Stop Hunger international network)",
+  "cause_areas": [
+   "food_waste",
+   "food_security",
+   "poverty",
+   "environment",
+   "circular_economy",
+   "social_inclusion",
+   "climate"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "in_kind",
+   "volunteering",
+   "grant"
+  ],
+  "deadline_type": "rolling",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Establish direct partnership with Sodexo"
+  ],
+  "application_steps_fr": [
+   "Établir un partenariat direct avec Sodexo"
+  ],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Lutte contre la faim, redistribution des excédents alimentaires de la restauration collective",
+  "eligible_org_type_fr": "Principalement les grandes fédérations (avec des partenariats établis avec la FFBA et les Restos du Coeur) plutôt que les petites associations isolées.",
+  "funding_range_fr": "Pas structuré comme une subvention classique",
+  "deadline_cycle_fr": "Continu / lié à des événements",
+  "notes_fr": "AVERTISSEMENT : Pas réellement accessible pour une petite association isolée – surtout si elle n’est pas partenaire de grandes fédérations. À inclure à des fins de mise en correspondance, mais avec le drapeau « accès probablement indirect ».",
+  "summary_en": "Sodexo’s Stop Hunger France programme provides in‑kind food surpluses, one‑off financial donations and employee volunteering to large federations fighting hunger in France.",
+  "summary_fr": "Le programme Stop Hunger France de Sodexo fournit des excédents alimentaires en nature, des dons financiers ponctuels et du bénévolat d’employés aux grandes fédérations qui luttent contre la faim en France.",
+  "_hash": "1a70306fd75c6274",
+  "amount_disclosed": false
+ },
+ {
+  "id": "eu-fseplus-p5",
+  "name": "FSE+ Priorite 5 - Aide alimentaire et materielle aux plus demunis (ex-FEAD)",
+  "organization": "Etat francais / Union europeenne (programme national FSE+ et FTJ)",
+  "source_type": "eu_grant",
+  "categories": [
+   "eu_grants"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "medium",
+  "official_link": "https://fse.gouv.fr/",
+  "source_verified_url": "https://fse.gouv.fr/actualites-evenements/la-priorite-5-aide-alimentaire-et-materielle-aux-plus-demunis-de-quoi-parle-t ; https://www.franceagrimer.fr/aides/soutien-europeen-laide-alimentaire-du-fse",
+  "sector_focus_en": "Food and material aid for the most destitute",
+  "eligible_org_type_en": "Associations authorized to provide food aid (operational management via FranceAgriMer)",
+  "funding_range_en": "Total budget ~30 million EUR for the priority (amount per project not specified)",
+  "deadline_cycle_en": "Periodic calls for projects, with a schedule that varies by region.",
+  "notes_en": "Successor to the FEAD (mentioned in the Senate report on food aid financing). Exact scope of the food component for a metropolitan association to be reconfirmed with FranceAgriMer.",
+  "funding_type_en": "European subsidy",
+  "geography_en": "The entire country is covered for material aid; the strict food aid component appears to be limited to the outermost regions, according to the page consulted.",
+  "cause_areas": [
+   "food_security",
+   "poverty",
+   "social_inclusion"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [
+   "aide_alimentaire"
+  ],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Monitor calls published on fse.gouv.fr",
+   "Submit application",
+   "Food component managed by FranceAgriMer"
+  ],
+  "application_steps_fr": [
+   "Surveiller les appels publiés sur fse.gouv.fr",
+   "Soumettre la candidature",
+   "Le volet alimentaire est géré par FranceAgriMer"
+  ],
+  "required_documents_en": [
+   "Standard ESF+ grant application file"
+  ],
+  "required_documents_fr": [
+   "Dossier standard de demande de subvention ESF+"
+  ],
+  "sector_focus_fr": "Aide alimentaire et matérielle aux plus démunis",
+  "eligible_org_type_fr": "Associations autorisées à fournir de l'aide alimentaire (gestion opérationnelle via FranceAgriMer)",
+  "funding_range_fr": "Budget total d'environ 30 millions d'euros pour la priorité (montant par projet non spécifié)",
+  "deadline_cycle_fr": "Appels périodiques à projets, avec un calendrier qui varie selon les régions.",
+  "notes_fr": "Successeur du FEAD (mentionné dans le rapport du Sénat sur le financement de l'aide alimentaire). Portée exacte du volet alimentaire pour une association métropolitaine à reconfirmer auprès de FranceAgriMer.",
+  "summary_en": "The FSE+ Priorité 5 provides a €30 million European grant for food and material aid to the most destitute, open to French associations authorized to deliver food aid.",
+  "summary_fr": "Le Priorité 5 du FSE+ offre une subvention européenne de 30 millions d’euros pour l’aide alimentaire et matérielle aux plus démunis, ouverte aux associations françaises autorisées à fournir de l’aide alimentaire.",
+  "_hash": "690513c9fe82807a",
+  "amount_disclosed": false
+ },
+ {
+  "id": "pub-ademe-etudes",
+  "name": "Aide aux etudes pour la lutte contre le gaspillage alimentaire",
+  "organization": "ADEME",
+  "source_type": "public_grant",
+  "categories": [
+   "french_grants"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "medium",
+  "official_link": "https://aides-territoires.beta.gouv.fr/aides/2d4b-etudes-pour-la-lutte-contre-le-gaspillage-ali/",
+  "source_verified_url": "https://aides-territoires.beta.gouv.fr/aides/2d4b-etudes-pour-la-lutte-contre-le-gaspillage-ali/",
+  "sector_focus_en": "Studies and assessments for the fight against food waste",
+  "eligible_org_type_en": "Associations, communities, businesses",
+  "funding_range_en": "Not specified in the pages consulted",
+  "deadline_cycle_en": "Continuous / as needed, depending on the region",
+  "notes_en": "Funding for STUDIES, not the day-to-day running of the association - useful if the project includes a diagnostic/impact study, less relevant for financing the van or rent.",
+  "funding_type_en": "Grant for study (not for regular operating expenses)",
+  "geography_en": "France (regionalized via ADEME regional offices)",
+  "cause_areas": [
+   "food_waste",
+   "food_security",
+   "environment",
+   "circular_economy",
+   "climate"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "regional",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "rolling",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit application via the regional ADEME schemes (aides-territoires.beta.gouv.fr)"
+  ],
+  "application_steps_fr": [
+   "Soumettre la candidature via les dispositifs régionaux de l'ADEME (aides-territoires.beta.gouv.fr)"
+  ],
+  "required_documents_en": [
+   "Standard ADEME grant application form"
+  ],
+  "required_documents_fr": [
+   "Formulaire standard de demande de subvention ADEME"
+  ],
+  "sector_focus_fr": "Études et évaluations pour la lutte contre le gaspillage alimentaire",
+  "eligible_org_type_fr": "Associations, collectivités, entreprises",
+  "funding_range_fr": "Non spécifié dans les pages consultées",
+  "deadline_cycle_fr": "Continu / au besoin, selon la région",
+  "notes_fr": "Financement pour les ÉTUDES, pas pour le fonctionnement quotidien de l'association – utile si le projet comprend une étude diagnostique/impact, moins pertinent pour financer le van ou le loyer.",
+  "summary_en": "ADEME offers grant funding for studies and assessments on food waste to associations, communities and businesses across France.",
+  "summary_fr": "L'ADEME propose des subventions pour des études et évaluations sur le gaspillage alimentaire aux associations, collectivités et entreprises sur l'ensemble du territoire français.",
+  "_hash": "be7565e35089bf11",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-casino",
+  "name": "Appel a projets Fondation groupe Casino",
+  "organization": "Groupe Casino",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "https://www.fondation-casino.org/",
+  "source_verified_url": "https://www.groupe-casino.fr/fondation-groupe-casino/notre-mission ; https://fondationgroupecasino.ulule.com/",
+  "sector_focus_en": "Social connection and personal development - several 2025 award winners linked to student food insecurity",
+  "eligible_org_type_en": "local associations",
+  "funding_range_en": "Not specified",
+  "deadline_cycle_en": "Annual",
+  "notes_en": "3 winners 2025 identified on student food insecurity (Happy Toque, 1 Cabas pour 1 Etudiant, Les Petites Cantines du Forez) - the theme is eligible but not guaranteed each edition.",
+  "funding_type_en": "Grant",
+  "geography_en": "France, near Casino stores",
+  "cause_areas": [
+   "food_security",
+   "poverty",
+   "social_inclusion",
+   "youth",
+   "education"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "low",
+  "application_steps_en": [
+   "Submit proposal via Ulule platform"
+  ],
+  "application_steps_fr": [
+   "Soumettre la proposition via la plateforme Ulule"
+  ],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Lien social et développement personnel - plusieurs lauréats 2025 liés à l'insécurité alimentaire étudiante",
+  "eligible_org_type_fr": "associations locales",
+  "funding_range_fr": "Non spécifié",
+  "deadline_cycle_fr": "Annuel",
+  "notes_fr": "3 lauréats 2025 identifiés sur l'insécurité alimentaire étudiante (Happy Toque, 1 Cabas pour 1 Étudiant, Les Petites Cantines du Forez) – le thème est éligible mais n’est pas garanti à chaque édition.",
+  "summary_en": "The Groupe Casino Foundation offers annual grant funding to local French associations working on social connection, personal development and student food insecurity.",
+  "summary_fr": "La Fondation du Groupe Casino propose un financement annuel sous forme de subvention aux associations françaises locales œuvrant pour le lien social, le développement personnel et l’insécurité alimentaire étudiante.",
+  "_hash": "2c4eda2d082de497",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-bnpparibas-banlieues",
+  "name": "Projet Banlieues",
+  "organization": "Fondation BNP Paribas",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://projet-banlieues.fondation.bnpparibas/fr/",
+  "source_verified_url": "https://fondation.bnpparibas/solidarite/programme/projet-banlieues/appel-a-candidatures/",
+  "sector_focus_en": "Education, employment, social cohesion in priority neighborhoods",
+  "eligible_org_type_en": "Association law 1901, apolitical, secular, non-community, based in/near a QPV, >=3 years of existence, annual budget <1M EUR, recent audited accounts, INDEPENDENT (not affiliated to a national network)",
+  "funding_range_en": "Not specified",
+  "deadline_cycle_en": "2026: Filing January 28 - March 9; Decision June 24; Notification from July 5",
+  "notes_en": "Important exclusion criterion: the association must NOT be part of a national network - excludes a local branch of a large federation but not a small independent association in QPV.",
+  "funding_type_en": "Grant",
+  "geography_en": "France, priority urban areas (QPV)",
+  "cause_areas": [
+   "education",
+   "employment",
+   "social_inclusion"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": 3,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Apply online via the dedicated platform"
+  ],
+  "application_steps_fr": [
+   "Postuler en ligne via la plateforme dédiée"
+  ],
+  "required_documents_en": [
+   "Audited accounts (post-end of 2022)",
+   "articles of association",
+   "project presentation"
+  ],
+  "required_documents_fr": [
+   "Comptes audités (post-clôture 2022)",
+   "statuts de l'association",
+   "présentation du projet"
+  ],
+  "sector_focus_fr": "Éducation, emploi, cohésion sociale dans les quartiers prioritaires",
+  "eligible_org_type_fr": "Association loi 1901, apolitique, laïque, non communautaire, basée dans ou à proximité d'un QPV, ≥3 ans d’existence, budget annuel <1 M EUR, comptes audités récents, INDÉPENDANTE (non affiliée à un réseau national)",
+  "funding_range_fr": "Non spécifié",
+  "deadline_cycle_fr": "2026 : Dépôt du 28 janvier au 9 mars ; Décision le 24 juin ; Notification à partir du 5 juillet",
+  "notes_fr": "Critère d'exclusion important : l'association ne doit PAS faire partie d'un réseau national – exclut une antenne locale d'une grande fédération mais pas une petite association indépendante en QPV.",
+  "summary_en": "The BNP Paribas Foundation offers grant funding to independent French 1901 associations operating in priority urban neighborhoods, supporting education, employment and social cohesion projects.",
+  "summary_fr": "La Fondation BNP Paribas propose des subventions aux associations françaises loi 1901 indépendantes intervenant dans les QPV, pour soutenir des projets d’éducation, d’emploi et de cohésion sociale.",
+  "_hash": "00d685c5c2b47f03",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-vinci",
+  "name": "Fondation VINCI pour la Cite",
+  "organization": "VINCI",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding",
+   "csr_programs"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://www.fondation-vinci.com/",
+  "source_verified_url": "https://www.fondation-vinci.com/votre-projet/criteres-de-selection/",
+  "sector_focus_en": "Professional integration, employment, social cohesion",
+  "eligible_org_type_en": "Association/foundation of general interest, <30% commercial revenue, itself the project leader (not a network head)",
+  "funding_range_en": "Not specified",
+  "deadline_cycle_en": "Continuous, through the course of sponsorships",
+  "notes_en": "Funding specifically for vehicles and equipment – ​​could cover the van/collection logistics. However, a VINCI employee is required as a sponsor.",
+  "funding_type_en": "Funding for tangible assets (equipment, vehicles, IT, furniture) or intangible assets (website, training)",
+  "geography_en": "France, priority given to disadvantaged neighborhoods and rural municipalities with fewer than 2000 inhabitants",
+  "cause_areas": [
+   "employment",
+   "social_inclusion",
+   "education"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901",
+   "fondation"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "rolling",
+  "complexity": "low",
+  "application_steps_en": [
+   "Obtain sponsorship from one or more VINCI employees"
+  ],
+  "application_steps_fr": [
+   "Obtenir le parrainage d'un ou plusieurs employés de VINCI"
+  ],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Intégration professionnelle, emploi, cohésion sociale",
+  "eligible_org_type_fr": "Association/fondation d'intérêt général, <30 % de revenus commerciaux, porteuse du projet elle‑même (pas une tête de réseau)",
+  "funding_range_fr": "Non spécifié",
+  "deadline_cycle_fr": "Continu, tout au long des parrainages",
+  "notes_fr": "Financement spécifiquement destiné aux véhicules et équipements – peut couvrir le van/la logistique de collecte. Cependant, un employé de VINCI est requis comme parrain.",
+  "summary_en": "The Fondation VINCI pour la Cite provides grant funding for equipment, vehicles and other assets to French associations or foundations of general interest, with a VINCI employee sponsor required.",
+  "summary_fr": "La Fondation VINCI pour la Cité offre des subventions pour du matériel, des véhicules et d’autres actifs aux associations ou fondations d'intérêt général en France, sous réserve du parrainage d'un employé de VINCI.",
+  "_hash": "e591060bdd675c24",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-totalenergies",
+  "name": "Appel a partenaires (Education et Insertion)",
+  "organization": "Fondation TotalEnergies",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "low",
+  "official_link": "https://fondation.totalenergies.com/fr",
+  "source_verified_url": "https://fondation.totalenergies.com/fr/nos-partenaires/nos-appels-a-partenaires",
+  "sector_focus_en": "Education and integration (theme of the last call identified)",
+  "eligible_org_type_en": "local associations",
+  "funding_range_en": "Not specified",
+  "deadline_cycle_en": "Periodic",
+  "notes_en": "Not specifically food-related - eligible only if the project clearly relates to integration/education.",
+  "funding_type_en": "Multi-year grant (partnership)",
+  "geography_en": "France, often near TotalEnergies sites",
+  "cause_areas": [
+   "education",
+   "social_inclusion"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [],
+  "application_steps_fr": [],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Education et intégration",
+  "eligible_org_type_fr": "associations locales",
+  "funding_range_fr": "Non spécifié",
+  "deadline_cycle_fr": "Périodique",
+  "notes_fr": "Pas spécifiquement lié à l'alimentation - éligible uniquement si le projet concerne clairement l'intégration/éducation.",
+  "summary_en": "The TotalEnergies Foundation offers multi‑year grants to local French associations delivering education or integration projects.",
+  "summary_fr": "La Fondation TotalEnergies propose des subventions pluriannuelles aux associations locales françaises menant des projets d'éducation ou d'intégration.",
+  "_hash": "9a036f08f12da09d",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-sncf",
+  "name": "Associations, a vos projets / Coups de Coeur Citoyens",
+  "organization": "Fondation SNCF",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "https://www.fondation-sncf.org/",
+  "source_verified_url": "https://www.fondation-sncf.org/fr/thematique/associations-a-vos-projets/",
+  "sector_focus_en": "Diversity, social connection, mobility",
+  "eligible_org_type_en": "local associations",
+  "funding_range_en": "Not specified",
+  "deadline_cycle_en": "Annual",
+  "notes_en": "Coups de Coeur Citoyens' operates by nominating an SNCF employee - useful if the association has a railway worker contact.",
+  "funding_type_en": "Subsidy (amounts vary depending on the scheme)",
+  "geography_en": "France",
+  "cause_areas": [
+   "social_inclusion",
+   "gender_equality",
+   "disability",
+   "employment"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit classic call for proposals",
+   "Nomination by an SNCF employee"
+  ],
+  "application_steps_fr": [
+   "Soumettre un appel à projets classique",
+   "Nomination par un employé SNCF"
+  ],
+  "required_documents_en": [
+   "Rules PDF for Citizens' Choice Awards"
+  ],
+  "required_documents_fr": [
+   "Règlement disponible en PDF pour les Prix du Choix des Citoyens"
+  ],
+  "sector_focus_fr": "Diversité, lien social, mobilité",
+  "eligible_org_type_fr": "associations locales",
+  "funding_range_fr": "Non spécifié",
+  "deadline_cycle_fr": "Annuel",
+  "notes_fr": "Le dispositif Coups de Coeur Citoyens fonctionne par nomination d'un employé SNCF - utile si l'association a un contact parmi les cheminots.",
+  "summary_en": "The Fondation SNCF offers annual subsidies to local French associations working on diversity, social connection and mobility, with applications via a classic call for proposals or employee nomination.",
+  "summary_fr": "La Fondation SNCF propose des subventions annuelles aux associations locales françaises œuvrant pour la diversité, le lien social et la mobilité, avec candidature via un appel à projets classique ou par nomination d'un employé.",
+  "_hash": "85a80bc28b05505f",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-up",
+  "name": "Fondation Up - actions de solidarite territoriale",
+  "organization": "Groupe Up (ex-Cheque Dejeuner)",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "low",
+  "official_link": "https://groupe.up.coop/",
+  "source_verified_url": "https://groupe.up.coop/fr/notre-actualite/fondation-up-solidarite-et-proximite-au-coeur-de-laction-territoriale",
+  "sector_focus_en": "Solidarity and territorial proximity",
+  "eligible_org_type_en": "local associations",
+  "funding_range_en": "Not specified",
+  "deadline_cycle_en": "Not specified",
+  "notes_en": "A group historically linked to meal vouchers – a thematic connection to food – but the focus is confirmed to be 'territorial solidarity' in a broad sense. Further investigation is needed before relying on it.",
+  "funding_type_en": "Grant",
+  "geography_en": "France (territorial actions)",
+  "cause_areas": [
+   "social_inclusion",
+   "poverty",
+   "housing",
+   "youth",
+   "elderly",
+   "disability",
+   "gender_equality",
+   "culture"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "unknown",
+  "complexity": "medium",
+  "application_steps_en": [],
+  "application_steps_fr": [],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Solidarité et proximité territoriale",
+  "eligible_org_type_fr": "associations locales",
+  "funding_range_fr": "Non spécifié",
+  "deadline_cycle_fr": "Non spécifié",
+  "notes_fr": "Un groupe historiquement lié aux titres-restaurant – une connexion thématique à l’alimentation – mais le focus est confirmé comme étant la « solidarité territoriale » dans un sens large. Une enquête plus approfondie est nécessaire avant de s’y fier.",
+  "summary_en": "The Fondation Up provides grants to local French associations for territorial solidarity projects across France.",
+  "summary_fr": "La Fondation Up accorde des subventions aux associations locales françaises pour des projets de solidarité territoriale à l’échelle nationale.",
+  "_hash": "c80d2b0a21d79111",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-engie",
+  "name": "Appel a projets Fondation ENGIE",
+  "organization": "ENGIE",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "low",
+  "official_link": "https://fondation-engie.com/",
+  "source_verified_url": "https://fondation-engie.com/la-fondation-engie-et-la-france-sengage-un-partenariat-pour-linnovation-sociale-et-solidaire/",
+  "sector_focus_en": "Social and solidarity-based innovation (a related but distinct theme from energy poverty addressed by FAPE ENGIE)",
+  "eligible_org_type_en": "Associations",
+  "funding_range_en": "Not specified",
+  "deadline_cycle_en": "Periodic",
+  "notes_en": "Do not confuse with the Agir Pour l'Emploi Foundation (FAPE ENGIE), which is specifically about professional integration, not food.",
+  "funding_type_en": "Grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "social_inclusion",
+   "poverty",
+   "youth",
+   "elderly",
+   "disability",
+   "gender_equality",
+   "culture"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Periodic call for projects (partnership identified with La France s'engage)"
+  ],
+  "application_steps_fr": [
+   "Appel périodique à projets (partenariat identifié avec La France s'engage)"
+  ],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Innovation sociale et solidaire (un thème connexe mais distinct de la précarité énergétique abordée par la FAPE ENGIE)",
+  "eligible_org_type_fr": "Associations",
+  "funding_range_fr": "Non spécifié",
+  "deadline_cycle_fr": "Périodique",
+  "notes_fr": "Ne pas confondre avec la Fondation Agir Pour l'Emploi (FAPE ENGIE), qui porte spécifiquement sur l'insertion professionnelle, pas sur l'alimentation.",
+  "summary_en": "ENGIE Foundation offers grant funding for social and solidarity‑based innovation projects to French associations.",
+  "summary_fr": "La Fondation ENGIE propose des subventions pour des projets d’innovation sociale et solidaire aux associations françaises.",
+  "_hash": "3bb1ba95bb79b41b",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-ag2r",
+  "name": "Appel a projets 'Sante et grande precarite'",
+  "organization": "AG2R La Mondiale - Fondation pour la solidarite",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "low",
+  "official_link": "https://www.ag2rlamondiale.fr/groupe/fondation-pour-la-solidarite",
+  "source_verified_url": "https://www.ag2rlamondiale.fr/groupe/fondation-pour-la-solidarite",
+  "sector_focus_en": "Health and extreme poverty (may overlap with malnutrition / access to healthcare for vulnerable people)",
+  "eligible_org_type_en": "Associations / health and social action structures",
+  "funding_range_en": "Not specified",
+  "deadline_cycle_en": "Periodic",
+  "notes_en": "Not a dedicated food fund - eligible only if the project has a clearly identifiable health/malnutrition focus.",
+  "funding_type_en": "Grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "health",
+   "poverty",
+   "food_security",
+   "social_inclusion"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Call for projects published in PDF brochure"
+  ],
+  "application_steps_fr": [
+   "Appel à projets publié dans une brochure PDF"
+  ],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Santé et grande précarité (peut chevaucher la malnutrition / accès aux soins de santé pour les personnes vulnérables)",
+  "eligible_org_type_fr": "Associations / structures d'action sanitaire et sociale",
+  "funding_range_fr": "Non spécifié",
+  "deadline_cycle_fr": "Périodique",
+  "notes_fr": "Pas un fonds dédié à l'alimentation - éligible uniquement si le projet a un axe clairement identifiable santé/malnutrition.",
+  "summary_en": "The AG2R La Mondiale Foundation offers grant funding for health and extreme poverty projects, especially those addressing malnutrition, to French associations and health‑social action structures.",
+  "summary_fr": "La Fondation AG2R La Mondiale propose des subventions pour des projets de santé et de grande précarité, notamment ceux traitant la malnutrition, aux associations et structures d'action sanitaire et sociale françaises.",
+  "_hash": "2d524cb0da8e4cff",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-airfrance",
+  "name": "Appel a projets Fondation Air France",
+  "organization": "Air France",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "low",
+  "official_link": "https://fondation.airfrance.com/",
+  "source_verified_url": "https://www.humanis.org/fondation-dentreprise-air-france/",
+  "sector_focus_en": "Education, training, and integration of people with disabilities or vulnerabilities",
+  "eligible_org_type_en": "Associations",
+  "funding_range_en": "Not specified",
+  "deadline_cycle_en": "Annual",
+  "notes_en": "Not food-related by default - eligible only if the project has a clearly identifiable education/training/integration focus.",
+  "funding_type_en": "Grant",
+  "geography_en": "France + international depending on service areas",
+  "cause_areas": [
+   "education",
+   "social_inclusion",
+   "disability"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Annual call for projects",
+   "Consult application guide (PDF)"
+  ],
+  "application_steps_fr": [
+   "Appel annuel à projets",
+   "Consulter le guide de candidature (PDF)"
+  ],
+  "required_documents_en": [
+   "Application guide"
+  ],
+  "required_documents_fr": [
+   "Guide de candidature"
+  ],
+  "sector_focus_fr": "Éducation, formation et intégration des personnes en situation de handicap ou de vulnérabilité",
+  "eligible_org_type_fr": "Associations",
+  "funding_range_fr": "Non spécifié",
+  "deadline_cycle_fr": "Annuel",
+  "notes_fr": "Pas lié à l'alimentation par défaut – éligible uniquement si le projet a un objectif clairement identifiable d'éducation, de formation ou d'intégration.",
+  "summary_en": "The Air France Foundation offers grant funding to associations in France and internationally for projects focused on education, training and integration of people with disabilities or vulnerabilities.",
+  "summary_fr": "La Fondation Air France propose des subventions aux associations en France et à l'international pour des projets axés sur l'éducation, la formation et l'intégration des personnes en situation de handicap ou de vulnérabilité.",
+  "_hash": "9fd2f0aa5846917a",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-ca-regional",
+  "name": "Reseau des 39 Fondations regionales Credit Agricole (ex: Pays de France)",
+  "organization": "Credit Agricole (Caisses regionales)",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "https://fondation-ca-paysdefrance.org/ (exemple - il existe 38 autres fondations regionales)",
+  "source_verified_url": "https://fondation-ca-paysdefrance.org/appel-a-projets/",
+  "sector_focus_en": "Variable by region and by edition - e.g. 2026 France: natural heritage and health (NOT food this year)",
+  "eligible_org_type_en": "Local associations within the territory of the Regional Fund",
+  "funding_range_en": "Order of magnitude: ~1.3M EUR spread across >140 projects since 2021 for the Pays de France foundation alone (not an amount per project)",
+  "deadline_cycle_en": "Annual, calendar specific to each regional branch",
+  "notes_en": "This is not a single fund but a network of 39 independent regional foundations. The food-related theme is not guaranteed – please check with each individual foundation depending on the location of the association.",
+  "funding_type_en": "Grant",
+  "geography_en": "France - 39 regional branches, each with its own foundation and its own themes/cycles",
+  "cause_areas": [
+   "environment",
+   "health",
+   "poverty",
+   "social_inclusion"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Annual call for projects",
+   "Submit application before the deadline (approximately one month before summer)",
+   "Evaluation by a joint committee composed of the Foundation, Crédit Agricole and experts"
+  ],
+  "application_steps_fr": [
+   "Appel annuel à projets",
+   "Soumettre la candidature avant la date limite (environ un mois avant l'été)",
+   "Évaluation par un comité conjoint composé de la Fondation, du Crédit Agricole et d'experts"
+  ],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Variable selon la région et l'édition - par ex. 2026 France : patrimoine naturel et santé (pas d'alimentation cette année)",
+  "eligible_org_type_fr": "Associations locales situées sur le territoire du fonds régional",
+  "funding_range_fr": "Ordre de grandeur : ~1,3 M€ répartis sur plus de 140 projets depuis 2021 pour la fondation Pays de France uniquement (pas de montant par projet)",
+  "deadline_cycle_fr": "Annuel, calendrier propre à chaque branche régionale",
+  "notes_fr": "Il ne s'agit pas d'un fonds unique mais d'un réseau de 39 fondations régionales indépendantes. Le thème lié à l'alimentation n'est pas garanti – veuillez vérifier auprès de chaque fondation individuelle en fonction de la localisation de l'association.",
+  "summary_en": "The Crédit Agricole regional foundations network offers grant funding to local French associations, with themes varying by region (e.g., natural heritage and health) and an annual call for projects.",
+  "summary_fr": "Le réseau des fondations régionales du Crédit Agricole propose des subventions aux associations locales françaises, avec des thématiques variables selon la région (par ex. patrimoine naturel et santé) et un appel annuel à projets.",
+  "_hash": "3dd767e00c226dd4",
+  "amount_disclosed": false
+ },
+ {
+  "id": "priv-fdf",
+  "name": "Appels a projets Fondation de France (pauvrete / exclusion / alimentation durable)",
+  "organization": "Fondation de France",
+  "source_type": "private_foundation",
+  "categories": [
+   "private_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "https://www.fondationdefrance.org/fr/appels-a-projets",
+  "source_verified_url": "https://www.fondationdefrance.org/fr/appels-a-projets",
+  "sector_focus_en": "Combating exclusion, precariousness, and inequalities from a very young age; 'Better food for all' identified in at least one region",
+  "eligible_org_type_en": "Associations of general interest",
+  "funding_range_en": "Not precise, variable per call",
+  "deadline_cycle_en": "Multiple calls per year, variable schedule",
+  "notes_en": "Large, generalist foundation with numerous ongoing calls – requires regular portal monitoring rather than a fixed schedule. A good candidate for automated/recurring scanning by the product's AI.",
+  "funding_type_en": "Grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "food_waste",
+   "food_security",
+   "poverty",
+   "environment",
+   "circular_economy",
+   "social_inclusion",
+   "youth",
+   "education"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "rolling",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Apply via the portal when a thematic call is published"
+  ],
+  "application_steps_fr": [
+   "Postuler via le portail lorsqu'un appel thématique est publié"
+  ],
+  "required_documents_en": [
+   "Not detailed - variable per call"
+  ],
+  "required_documents_fr": [
+   "Non détaillé - variable selon l'appel"
+  ],
+  "sector_focus_fr": "Lutter contre l'exclusion, la précarité et les inégalités dès le plus jeune âge ; « Une meilleure alimentation pour tous » identifié dans au moins une région",
+  "eligible_org_type_fr": "Associations d'intérêt général",
+  "funding_range_fr": "Pas précis, variable selon l'appel",
+  "deadline_cycle_fr": "Appels multiples par an, calendrier variable",
+  "notes_fr": "Grande fondation généraliste avec de nombreux appels en cours – nécessite une surveillance régulière du portail plutôt qu'un calendrier fixe. Un bon candidat pour une veille automatisée/récurrente par l'IA du produit.",
+  "summary_en": "The Fondation de France offers variable grant funding to French associations of general interest working on poverty, social exclusion and sustainable food.",
+  "summary_fr": "La Fondation de France propose des subventions variables aux associations françaises d'intérêt général œuvrant contre la pauvreté, l'exclusion sociale et pour une alimentation durable.",
+  "_hash": "232d8f9610346bf0",
+  "amount_disclosed": false
+ },
+ {
+  "id": "pub-fdva",
+  "name": "FDVA - Fonctionnement et projets innovants",
+  "organization": "Etat francais (gestion departementale via les prefectures)",
+  "source_type": "public_grant",
+  "categories": [
+   "french_grants"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://www.associations.gouv.fr/fdva.html",
+  "source_verified_url": "https://associations.gouv.fr/fdva-fonctionnement-innovation-les-appels-projets-2026",
+  "sector_focus_en": "Operations and innovative projects of associations, all sectors",
+  "eligible_org_type_en": "Any association governed by the 1901 law (excluding religious associations and party financing associations)",
+  "funding_range_en": "Variable by department, generally in the order of a few thousand euros",
+  "deadline_cycle_en": "Annual, dates set by each prefecture (generally in the spring)",
+  "notes_en": "The most relevant public funding for the identified problem is explicitly intended to cover the association's operating costs (rent, transportation, etc.), not for a specific project. This type of funding exists in all French departments.",
+  "funding_type_en": "Operating or innovation grant",
+  "geography_en": "France, managed at the departmental level",
+  "cause_areas": [
+   "poverty",
+   "social_inclusion",
+   "employment",
+   "education",
+   "health",
+   "housing",
+   "youth",
+   "elderly",
+   "disability",
+   "gender_equality",
+   "culture"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit application via the 'Le Compte Asso' platform"
+  ],
+  "application_steps_fr": [
+   "Soumettre la candidature via la plateforme 'Le Compte Asso'"
+  ],
+  "required_documents_en": [
+   "statutes",
+   "bank details",
+   "provisional budget",
+   "activity report"
+  ],
+  "required_documents_fr": [
+   "statuts",
+   "coordonnées bancaires",
+   "budget prévisionnel",
+   "rapport d'activité"
+  ],
+  "sector_focus_fr": "Opérations et projets innovants des associations, tous secteurs",
+  "eligible_org_type_fr": "Toute association régie par la loi de 1901 (à l'exclusion des associations religieuses et des associations de financement de partis)",
+  "funding_range_fr": "Variable selon le département, généralement de l'ordre de quelques milliers d'euros",
+  "deadline_cycle_fr": "Appel annuel, dates fixées par chaque préfecture (généralement au printemps)",
+  "notes_fr": "Le financement public le plus pertinent pour le problème identifié est explicitement destiné à couvrir les frais de fonctionnement de l'association (loyer, transport, etc.), et non à un projet spécifique. Ce type de financement existe dans tous les départements français.",
+  "summary_en": "The FDVA provides operating or innovation grants of a few thousand euros annually to any French 1901 association for general operational costs.",
+  "summary_fr": "Le FDVA offre des subventions de fonctionnement ou d'innovation de quelques milliers d'euros chaque année à toute association française de loi 1901 pour couvrir les frais généraux.",
+  "_hash": "dcdb4f60cf035c10",
+  "amount_disclosed": false
+ },
+ {
+  "id": "pub-ccas",
+  "name": "Subventions CCAS / CIAS (action sociale communale)",
+  "organization": "Centres communaux/intercommunaux d'action sociale (Etat/collectivites)",
+  "source_type": "public_grant",
+  "categories": [
+   "french_grants"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "Variable par commune - pas de portail national unique",
+  "source_verified_url": "Rapport du Senat sur le financement de l'aide alimentaire (~122,5M EUR apportes par les CCAS/CIAS au niveau national) - https://www.senat.fr/rap/r18-034/r18-0342.html",
+  "sector_focus_en": "Local social action, food aid often included depending on the municipality",
+  "eligible_org_type_en": "Local associations operating within the municipality",
+  "funding_range_en": "Highly variable depending on the size of the municipality",
+  "deadline_cycle_en": "Annual, generally linked to the vote on the municipal budget.",
+  "notes_en": "Not one source, but approximately 35,000 potential entities (one per municipality) – a good candidate for a 'find your local social services center' module rather than a single information sheet. Significant national aggregate amount (€122.5 million/year) according to the Senate.",
+  "funding_type_en": "Municipal subsidy",
+  "geography_en": "France, municipal/inter-municipal level (varies by municipality - no single national portal)",
+  "cause_areas": [
+   "social_inclusion",
+   "poverty",
+   "food_security"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "local",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit grant application to the town hall or CCAS"
+  ],
+  "application_steps_fr": [
+   "Déposer la demande de subvention à la mairie ou au CCAS"
+  ],
+  "required_documents_en": [
+   "Standard CERFA grant application form",
+   "articles of association",
+   "bank details",
+   "budget",
+   "activity report"
+  ],
+  "required_documents_fr": [
+   "Formulaire CERFA standard de demande de subvention",
+   "statuts de l'association",
+   "coordonnées bancaires",
+   "budget",
+   "rapport d'activité"
+  ],
+  "sector_focus_fr": "Action sociale locale, aide alimentaire souvent incluse selon la municipalité",
+  "eligible_org_type_fr": "Associations locales opérant au sein de la municipalité",
+  "funding_range_fr": "Très variable selon la taille de la municipalité",
+  "deadline_cycle_fr": "Annuel, généralement lié au vote du budget municipal",
+  "notes_fr": "Pas une source unique, mais environ 35 000 entités potentielles (une par municipalité) – un bon candidat pour un module « trouvez votre centre social local » plutôt qu’une fiche d’information unique. Montant agrégé national important (122,5 M€ / an) selon le Sénat.",
+  "summary_en": "The programme provides municipal grants to local associations for social action and food aid, with amounts varying by municipality.",
+  "summary_fr": "Le dispositif accorde des subventions municipales aux associations locales pour l'action sociale et l'aide alimentaire, les montants variant selon la municipalité.",
+  "_hash": "2dadeacf6bc6c133",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-picard",
+  "name": "Fondation Picard",
+  "organization": "Picard",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "high",
+  "official_link": "picard.fr/la-fondation-picard.html",
+  "source_verified_url": "picard.fr/la-fondation-picard.html",
+  "sector_focus_en": "Food insecurity, sustainable food, food/environment",
+  "eligible_org_type_en": "Associations and organizations of general interest",
+  "funding_range_en": "Not publicly specified",
+  "deadline_cycle_en": "Annual / selection cycle",
+  "notes_en": "Very strong Phenix match: foundation explicitly has two missions — sustainable food and fighting food insecurity. It supports financially associations every year. Picard",
+  "funding_type_en": "Grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "food_security",
+   "food_waste",
+   "environment",
+   "circular_economy"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Foundation selects and financially supports associations"
+  ],
+  "application_steps_fr": [
+   "La fondation sélectionne et soutient financièrement les associations"
+  ],
+  "required_documents_en": [],
+  "required_documents_fr": [],
+  "sector_focus_fr": "Insécurité alimentaire, alimentation durable, alimentation/environnement",
+  "eligible_org_type_fr": "Associations et organisations d'intérêt général",
+  "funding_range_fr": "Non spécifié publiquement",
+  "deadline_cycle_fr": "Cycle annuel / de sélection",
+  "notes_fr": "Correspondance très forte avec Phenix : la fondation a explicitement deux missions — alimentation durable et lutte contre l'insécurité alimentaire. Elle soutient financièrement les associations chaque année. Picard",
+  "summary_en": "Fondation Picard provides annual grant funding to French associations working on food insecurity and sustainable food.",
+  "summary_fr": "La Fondation Picard offre chaque année des subventions aux associations françaises œuvrant contre l'insécurité alimentaire et pour une alimentation durable.",
+  "_hash": "a887f0d4cf60b37c",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-bouygues",
+  "name": "Fondation Bouygues Telecom – Incub'Asso",
+  "organization": "Bouygues Telecom",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "bouyguestelecom.com",
+  "source_verified_url": "corporate.bouyguestelecom.fr",
+  "sector_focus_en": "Social innovation, volunteering, association development",
+  "eligible_org_type_en": "Young / developing associations meeting program criteria",
+  "funding_range_en": "Up to €20k + support",
+  "deadline_cycle_en": "Annual",
+  "notes_en": "Particularly interesting for your concept because support includes association development, potentially helping small charities professionalize fundraising.",
+  "funding_type_en": "Grant + support",
+  "geography_en": "France",
+  "cause_areas": [
+   "social_inclusion",
+   "youth",
+   "education"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": 20000,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant",
+   "support"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Competitive call for applications"
+  ],
+  "application_steps_fr": [
+   "Appel à candidatures compétitif"
+  ],
+  "required_documents_en": [
+   "Application folder",
+   "program-specific information"
+  ],
+  "required_documents_fr": [
+   "Dossier de candidature",
+   "informations spécifiques au programme"
+  ],
+  "sector_focus_fr": "Innovation sociale, volontariat, développement associatif",
+  "eligible_org_type_fr": "Associations jeunes / en développement répondant aux critères du programme",
+  "funding_range_fr": "Jusqu'à 20 000 € + accompagnement",
+  "deadline_cycle_fr": "Annuel",
+  "notes_fr": "Particulièrement intéressant pour votre concept car le soutien comprend le développement associatif, pouvant aider les petites associations à professionnaliser la collecte de fonds.",
+  "summary_en": "The Fondation Bouygues Telecom Incub'Asso offers grants up to €20,000 and support to young or developing French associations focused on social innovation, volunteering and association development.",
+  "summary_fr": "La Fondation Bouygues Telecom Incub'Asso propose des subventions allant jusqu'à 20 000 € ainsi qu'un accompagnement aux jeunes ou aux associations en développement en France, axées sur l'innovation sociale, le volontariat et le développement associatif.",
+  "_hash": "303aed6fe1477d33",
+  "amount_disclosed": true
+ },
+ {
+  "id": "corp-ratp",
+  "name": "Fondation Groupe RATP",
+  "organization": "RATP",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding",
+   "csr_programs"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "fondation-groupe-ratp.wiin.io",
+  "source_verified_url": "fondation-groupe-ratp.wiin.io",
+  "sector_focus_en": "Social inclusion, employment, mobility, access to city",
+  "eligible_org_type_en": "Associations of general interest",
+  "funding_range_en": "Not publicly specified",
+  "deadline_cycle_en": "Annual / programme-based",
+  "notes_en": "Stronger match when food-aid activity is connected to social inclusion or local mobility.",
+  "funding_type_en": "Grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "food_security",
+   "social_inclusion",
+   "employment"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Project submission",
+   "Employee sponsorship (if applicable)"
+  ],
+  "application_steps_fr": [
+   "Soumission du projet",
+   "Parrainage d'employés (selon le programme)"
+  ],
+  "required_documents_en": [
+   "Program-specific file"
+  ],
+  "required_documents_fr": [
+   "Fichier spécifique au programme"
+  ],
+  "sector_focus_fr": "Inclusion sociale, emploi, mobilité, accès à la ville",
+  "eligible_org_type_fr": "Associations d'intérêt général",
+  "funding_range_fr": "Non spécifié publiquement",
+  "deadline_cycle_fr": "Annuel / basé sur le programme",
+  "notes_fr": "Correspondance plus forte lorsque l'activité d'aide alimentaire est liée à l'inclusion sociale ou à la mobilité locale.",
+  "summary_en": "The Fondation Groupe RATP provides grant funding to French associations of general interest working on social inclusion, employment and mobility, especially when linked to food‑aid activities.",
+  "summary_fr": "La Fondation Groupe RATP offre des subventions aux associations d'intérêt général françaises œuvrant pour l'inclusion sociale, l'emploi et la mobilité, notamment lorsque l'action d'aide alimentaire est liée à ces thématiques.",
+  "_hash": "41c9c1c755fa2e13",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-seb",
+  "name": "Fonds Groupe SEB / Fondation Groupe SEB",
+  "organization": "Groupe SEB",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "groupe-seb.com",
+  "source_verified_url": "groupe-seb.com",
+  "sector_focus_en": "Social inclusion, entrepreneurship, food-related social impact",
+  "eligible_org_type_en": "Associations / social-impact organizations",
+  "funding_range_en": "Not publicly specified",
+  "deadline_cycle_en": "Periodic",
+  "notes_en": "Potential food-sector corporate prospect, but less directly food-aid focused than Picard.",
+  "funding_type_en": "Grant / partnership",
+  "geography_en": "France + international",
+  "cause_areas": [
+   "social_inclusion",
+   "employment",
+   "food_security",
+   "food_waste",
+   "environment",
+   "circular_economy"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Project-based selection"
+  ],
+  "application_steps_fr": [
+   "Sélection basée sur le projet"
+  ],
+  "required_documents_en": [
+   "Programme-specific"
+  ],
+  "required_documents_fr": [
+   "Spécifique au programme"
+  ],
+  "sector_focus_fr": "Inclusion sociale, entrepreneuriat, impact social lié à l'alimentation",
+  "eligible_org_type_fr": "Associations / organisations à impact social",
+  "funding_range_fr": "Non spécifié publiquement",
+  "deadline_cycle_fr": "Périodique",
+  "notes_fr": "Potentiel prospect dans le secteur alimentaire, mais moins directement axé sur l'aide alimentaire que Picard.",
+  "summary_en": "The Fonds Groupe SEB provides undisclosed grant or partnership funding to French associations and social‑impact organisations working on social inclusion, entrepreneurship and food‑related social impact, selected on a periodic basis.",
+  "summary_fr": "Le Fonds Groupe SEB offre un financement sous forme de subvention ou de partenariat, dont le montant n’est pas précisé, aux associations françaises et aux organisations à impact social œuvrant pour l’inclusion sociale, l’entrepreneuriat et l’impact social lié à l’alimentation, sélectionnées de façon périodique.",
+  "_hash": "382b04e1365fd9cb",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-raja",
+  "name": "Fondation RAJA-Danièle Marcovici",
+  "organization": "RAJA",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "fondation-raja-marcovici.com",
+  "source_verified_url": "fondation-raja-marcovici.com",
+  "sector_focus_en": "Women, poverty, social inclusion",
+  "eligible_org_type_en": "Associations / NGOs",
+  "funding_range_en": "Not publicly specified",
+  "deadline_cycle_en": "Annual / periodic",
+  "notes_en": "Useful for associations where food aid is combined with women's empowerment or poverty reduction.",
+  "funding_type_en": "Grant",
+  "geography_en": "France + international",
+  "cause_areas": [
+   "food_security",
+   "poverty",
+   "social_inclusion",
+   "gender_equality"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Calls for projects",
+   "Partnership"
+  ],
+  "application_steps_fr": [
+   "Appels à projets",
+   "Partenariat"
+  ],
+  "required_documents_en": [
+   "Programme-specific"
+  ],
+  "required_documents_fr": [
+   "Programme spécifique"
+  ],
+  "sector_focus_fr": "Femmes, pauvreté, inclusion sociale",
+  "eligible_org_type_fr": "Associations / ONG",
+  "funding_range_fr": "Non spécifié publiquement",
+  "deadline_cycle_fr": "Annuel / périodique",
+  "notes_fr": "Utile pour les associations où l'aide alimentaire est combinée avec l'autonomisation des femmes ou la réduction de la pauvreté.",
+  "summary_en": "The RAJA Fondation offers grant funding to French and international NGOs and associations working on women’s empowerment, poverty reduction and social inclusion, especially when combined with food aid.",
+  "summary_fr": "La Fondation RAJA offre des subventions aux ONG et associations françaises et internationales travaillant sur l’autonomisation des femmes, la réduction de la pauvreté et l’inclusion sociale, notamment lorsque l’aide alimentaire est combinée.",
+  "_hash": "cd080c9366f671d5",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-loccitane",
+  "name": "Fondation L'OCCITANE",
+  "organization": "L'OCCITANE",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "fondation.loccitane.com",
+  "source_verified_url": "fondation.loccitane.com",
+  "sector_focus_en": "Women's empowerment, disability, biodiversity",
+  "eligible_org_type_en": "NGOs / associations",
+  "funding_range_en": "Not publicly specified",
+  "deadline_cycle_en": "Periodic",
+  "notes_en": "Broad social-impact funder; food aid is not a primary theme.",
+  "funding_type_en": "Grant",
+  "geography_en": "France + international",
+  "cause_areas": [
+   "disability",
+   "gender_equality",
+   "environment"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Project / partnership selection"
+  ],
+  "application_steps_fr": [
+   "Sélection de projet / partenariat"
+  ],
+  "required_documents_en": [
+   "Programme-specific"
+  ],
+  "required_documents_fr": [
+   "Spécifique au programme"
+  ],
+  "sector_focus_fr": "Autonomisation des femmes, handicap, biodiversité",
+  "eligible_org_type_fr": "ONG / associations",
+  "funding_range_fr": "Non spécifié publiquement",
+  "deadline_cycle_fr": "Périodique",
+  "notes_fr": "Fondeur à impact social large ; l'aide alimentaire n'est pas un thème principal.",
+  "summary_en": "The Fondation L'OCCITANE provides grant funding to NGOs and associations in France and internationally, focusing on women’s empowerment, disability and biodiversity.",
+  "summary_fr": "La Fondation L'OCCITANE offre des subventions aux ONG et associations en France et à l'international, en se concentrant sur l'autonomisation des femmes, le handicap et la biodiversité.",
+  "_hash": "3b16ac1c457bd367",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-pierre-bellon",
+  "name": "Fondation Pierre Bellon",
+  "organization": "Pierre Bellon",
+  "source_type": "private_foundation",
+  "categories": [
+   "private_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "fondationpierrebellon.org",
+  "source_verified_url": "fondationpierrebellon.org",
+  "sector_focus_en": "Youth, education, entrepreneurship, social inclusion",
+  "eligible_org_type_en": "General-interest organizations",
+  "funding_range_en": "Not publicly specified",
+  "deadline_cycle_en": "Periodic",
+  "notes_en": "Relevant to associations working with youth or vulnerable populations.",
+  "funding_type_en": "Grant / support",
+  "geography_en": "France + international",
+  "cause_areas": [
+   "youth",
+   "education",
+   "social_inclusion",
+   "employment",
+   "poverty"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant",
+   "support"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Project submission",
+   "Selection"
+  ],
+  "application_steps_fr": [
+   "Soumission du projet",
+   "Sélection"
+  ],
+  "required_documents_en": [
+   "Programme-specific"
+  ],
+  "required_documents_fr": [
+   "Programme spécifique"
+  ],
+  "sector_focus_fr": "Jeunesse, éducation, entrepreneuriat, inclusion sociale",
+  "eligible_org_type_fr": "Organisations d'intérêt général",
+  "funding_range_fr": "Non spécifié publiquement",
+  "deadline_cycle_fr": "Périodique",
+  "notes_fr": "Pertinent pour les associations travaillant avec les jeunes ou les populations vulnérables.",
+  "summary_en": "The Fondation Pierre Bellon provides grants and support to French and international NGOs working with youth, education, entrepreneurship and social inclusion.",
+  "summary_fr": "La Fondation Pierre Bellon offre des subventions et un soutien aux ONG françaises et internationales œuvrant dans les domaines de la jeunesse, de l'éducation, de l'entrepreneuriat et de l'inclusion sociale.",
+  "_hash": "b21cf81c823a1dba",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-m6",
+  "name": "Fondation M6",
+  "organization": "Groupe M6",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "fondationm6.fr",
+  "source_verified_url": "fondationm6.fr",
+  "sector_focus_en": "Reintegration, social inclusion, vulnerable populations",
+  "eligible_org_type_en": "Associations / organizations",
+  "funding_range_en": "Not publicly specified",
+  "deadline_cycle_en": "Periodic",
+  "notes_en": "Useful for broader social-inclusion matching rather than pure food aid.",
+  "funding_type_en": "Grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "social_inclusion",
+   "poverty",
+   "employment",
+   "housing",
+   "health",
+   "disability",
+   "elderly",
+   "youth"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Project-based applications"
+  ],
+  "application_steps_fr": [
+   "Candidatures basées sur des projets"
+  ],
+  "required_documents_en": [
+   "Programme-specific"
+  ],
+  "required_documents_fr": [
+   "Spécifique au programme"
+  ],
+  "sector_focus_fr": "Réinsertion, inclusion sociale, populations vulnérables",
+  "eligible_org_type_fr": "Associations / organisations",
+  "funding_range_fr": "Non spécifié publiquement",
+  "deadline_cycle_fr": "Périodique",
+  "notes_fr": "Utile pour un appariement plus large d'inclusion sociale plutôt que d'aide alimentaire pure.",
+  "summary_en": "The Fondation M6 provides grant funding to French associations working on reintegration, social inclusion and vulnerable populations.",
+  "summary_fr": "La Fondation M6 offre des subventions aux associations françaises travaillant sur la réinsertion, l'inclusion sociale et les populations vulnérables.",
+  "_hash": "1b9722ba34d4dedb",
+  "amount_disclosed": false
+ },
+ {
+  "id": "pub-pna",
+  "name": "Programme National pour l'Alimentation (PNA)",
+  "organization": "Ministère de l'Agriculture",
+  "source_type": "public_grant",
+  "categories": [
+   "french_grants"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "high",
+  "official_link": "https://agriculture.gouv.fr/",
+  "source_verified_url": "https://agriculture.gouv.fr/programme-national-de-lalimentation-les-29-laureats-de-lappel-projets-2025-2026",
+  "sector_focus_en": "Sustainable, healthy and socially inclusive food systems; food insecurity",
+  "eligible_org_type_en": "Associations and other eligible project structures",
+  "funding_range_en": "€2.2M in 2025–26 call",
+  "deadline_cycle_en": "Periodic / annual calls",
+  "notes_en": "Strong fit for projects combining food access, sustainability and food-system transformation.",
+  "funding_type_en": "Project grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "food_security",
+   "environment",
+   "social_inclusion",
+   "health"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Call for projects"
+  ],
+  "application_steps_fr": [
+   "Appel à projets"
+  ],
+  "required_documents_en": [
+   "Project/application folder"
+  ],
+  "required_documents_fr": [
+   "Dossier projet/dossier de candidature"
+  ],
+  "sector_focus_fr": "Systèmes alimentaires durables, sains et socialement inclusifs ; insécurité alimentaire",
+  "eligible_org_type_fr": "Associations et autres structures de projet éligibles",
+  "funding_range_fr": "2,2 M€ lors de l'appel 2025–2026",
+  "deadline_cycle_fr": "Appels périodiques / annuels",
+  "notes_fr": "Fortement adapté aux projets combinant accès à l'alimentation, durabilité et transformation du système alimentaire.",
+  "summary_en": "The French Ministry of Agriculture offers a project grant of up to €2.2 million for associations and eligible project structures working on sustainable, healthy and socially inclusive food systems and food insecurity.",
+  "summary_fr": "Le Ministère de l'Agriculture français propose une subvention de projet de 2,2 M€ aux associations et structures de projet éligibles œuvrant pour des systèmes alimentaires durables, sains et socialement inclusifs ainsi que pour la lutte contre l'insécurité alimentaire.",
+  "_hash": "675e487b15829d7f",
+  "amount_disclosed": false
+ },
+ {
+  "id": "pub-feader-food",
+  "name": "FEADER – Transition alimentaire / systèmes alimentaires locaux",
+  "organization": "EU / French regional authorities",
+  "source_type": "eu_grant",
+  "categories": [
+   "eu_grants"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "high",
+  "official_link": "https://www.europe-en-france.gouv.fr/",
+  "source_verified_url": "https://www.europe-en-france.gouv.fr/fr/appels-a-projet/accompagner-mise-en-oeuvre-transition-alimentaire",
+  "sector_focus_en": "Food transition, local food systems, circular economy, waste reduction",
+  "eligible_org_type_en": "Associations, local authorities and eligible project organizations",
+  "funding_range_en": "€3K–€30K in identified call",
+  "deadline_cycle_en": "Regional / periodical",
+  "notes_en": "Particularly relevant where food aid is combined with local food systems or food-waste reduction.",
+  "funding_type_en": "European grant",
+  "geography_en": "France, regional",
+  "cause_areas": [
+   "food_waste",
+   "food_security",
+   "circular_economy",
+   "environment"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "regional",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": 3000,
+  "grant_max_eur": 30000,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Regional calls for projects"
+  ],
+  "application_steps_fr": [
+   "Appels régionaux pour projets"
+  ],
+  "required_documents_en": [
+   "Project funding dossier"
+  ],
+  "required_documents_fr": [
+   "Dossier de financement du projet"
+  ],
+  "sector_focus_fr": "Transition alimentaire, systèmes alimentaires locaux, économie circulaire, réduction des déchets",
+  "eligible_org_type_fr": "Associations, collectivités locales et organisations de projet éligibles",
+  "funding_range_fr": "3 k€–30 k€ dans l’appel identifié",
+  "deadline_cycle_fr": "Régional / périodique",
+  "notes_fr": "Particulièrement pertinent lorsque l’aide alimentaire est combinée avec des systèmes alimentaires locaux ou la réduction des déchets alimentaires.",
+  "summary_en": "The FEADER grant provides €3,000‑€30,000 to associations, local authorities and eligible project organisations in France to support food transition, local food systems and circular economy initiatives that combine food aid with waste reduction.",
+  "summary_fr": "Le dispositif FEADER offre entre 3 k€ et 30 k€ aux associations, collectivités locales et organisations de projet éligibles en France pour soutenir la transition alimentaire, les systèmes alimentaires locaux et les initiatives d’économie circulaire qui associent aide alimentaire et réduction des déchets alimentaires.",
+  "_hash": "d20a07fa95600def",
+  "amount_disclosed": true
+ },
+ {
+  "id": "pub-feder",
+  "name": "FEDER – Programmes régionaux",
+  "organization": "EU / French regional authorities",
+  "source_type": "eu_grant",
+  "categories": [
+   "eu_grants"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "https://www.europe-en-france.gouv.fr/",
+  "source_verified_url": "https://www.europe-en-france.gouv.fr/",
+  "sector_focus_en": "Ecological transition, innovation, infrastructure, circular economy",
+  "eligible_org_type_en": "Depends on regional call",
+  "funding_range_en": "€9.1B France 2021–27 envelope",
+  "deadline_cycle_en": "Regional / periodical",
+  "notes_en": "Better suited to food-waste technology, logistics and infrastructure than ordinary food distribution.",
+  "funding_type_en": "European grant",
+  "geography_en": "France, regional",
+  "cause_areas": [
+   "food_waste",
+   "environment",
+   "climate",
+   "circular_economy"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Regional calls for projects"
+  ],
+  "application_steps_fr": [
+   "Appels régionaux pour projets"
+  ],
+  "required_documents_en": [
+   "Call-specific"
+  ],
+  "required_documents_fr": [
+   "Documents spécifiques à l'appel"
+  ],
+  "sector_focus_fr": "Transition écologique, innovation, infrastructure, économie circulaire",
+  "eligible_org_type_fr": "Selon l'appel régional",
+  "funding_range_fr": "Enveloppe de 9,1 Mds € pour la France 2021–27",
+  "deadline_cycle_fr": "Appels régionaux / périodiques",
+  "notes_fr": "Mieux adapté aux technologies de réduction des déchets alimentaires, à la logistique et aux infrastructures qu'à la distribution alimentaire ordinaire.",
+  "summary_en": "The FEDER regional programmes provide European grant funding for ecological transition, innovation and circular‑economy projects across France, especially supporting food‑waste technologies and related infrastructure.",
+  "summary_fr": "Les programmes régionaux du FEDER offrent des subventions européennes pour des projets de transition écologique, d’innovation et d’économie circulaire à travers la France, en particulier pour les technologies de réduction des déchets alimentaires et les infrastructures associées.",
+  "_hash": "a27c13b8fe1bdedd",
+  "amount_disclosed": false
+ },
+ {
+  "id": "pub-mmpt2026",
+  "name": "« Mieux manger pour tous » 2026",
+  "organization": "État français / DREETS",
+  "source_type": "public_grant",
+  "categories": [
+   "french_grants"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "high",
+  "official_link": "https://demarches-simplifiees.fr/",
+  "source_verified_url": "https://www.legifrance.gouv.fr/",
+  "sector_focus_en": "Food aid, access to fresh/local produce, logistics and white zones",
+  "eligible_org_type_en": "Associations governed by the 1901 law and authorized to provide food aid (CASF L.266-2)",
+  "funding_range_en": "Variable depending on the project (maximum public co-financing 80%)",
+  "deadline_cycle_en": "Annual (according to the DREETS calendar)",
+  "notes_en": "Priority funder for the logistical modernization of food aid.",
+  "funding_type_en": "Public subsidy",
+  "geography_en": "Nationwide (via regional DREETS modules)",
+  "cause_areas": [
+   "food_security",
+   "poverty",
+   "social_inclusion"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [
+   "aide_alimentaire"
+  ],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Apply via the Simplified Procedures platform",
+   "Apply through regional DREETS"
+  ],
+  "application_steps_fr": [
+   "Candidature via la plateforme Procédures Simplifiées",
+   "Candidature auprès de la DREETS régionale"
+  ],
+  "required_documents_en": [
+   "CERFA form no. 12156*06",
+   "Bank details",
+   "Kbis/SIRENE extract (less than 3 months old)",
+   "Articles of Association",
+   "Previous year accounts",
+   "Equipment quotes"
+  ],
+  "required_documents_fr": [
+   "Formulaire CERFA n° 12156*06",
+   "Coordonnées bancaires",
+   "Extrait Kbis/SIRENE (moins de 3 mois)",
+   "Statuts",
+   "Comptes de l'année précédente",
+   "Devis d'équipement"
+  ],
+  "sector_focus_fr": "Aide alimentaire, accès à des produits frais/locaux, logistique et zones blanches",
+  "eligible_org_type_fr": "Associations régies par la loi de 1901 et autorisées à fournir de l'aide alimentaire (CASF L.266-2)",
+  "funding_range_fr": "Variable selon le projet (cofinancement public maximal de 80 %)",
+  "deadline_cycle_fr": "Annuel (selon le calendrier DREETS)",
+  "notes_fr": "Fonds prioritaire pour la modernisation logistique de l'aide alimentaire",
+  "summary_en": "The French state, via DREETS, offers a public grant to 1901‑law associations providing food aid, covering up to 80 % of project costs, with an annual call.",
+  "summary_fr": "L'État français, via les DREETS, propose une subvention publique aux associations loi 1901 fournissant de l'aide alimentaire, couvrant jusqu'à 80 % des coûts du projet, avec un appel annuel.",
+  "_hash": "d0b36647c9452116",
+  "amount_disclosed": false
+ },
+ {
+  "id": "pub-snanc",
+  "name": "SNANC (Stratégie Nationale Alimentation Nutrition)",
+  "organization": "Ministère de l'Agriculture et de la Souveraineté Alimentaire",
+  "source_type": "public_grant",
+  "categories": [
+   "french_grants"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "high",
+  "official_link": "https://agriculture.gouv.fr/",
+  "source_verified_url": "https://agriculture.gouv.fr/",
+  "sector_focus_en": "Solidarity-based supply chain, Territorial Food Projects (PAT), fight against food waste",
+  "eligible_org_type_en": "Associations, solidarity networks, PAT project leaders",
+  "funding_range_en": "Not specified (depending on call envelopes)",
+  "deadline_cycle_en": "Annual",
+  "notes_en": "Call for projects focused on structuring solidarity food networks.",
+  "funding_type_en": "Public subsidy",
+  "geography_en": "All of France",
+  "cause_areas": [
+   "food_waste",
+   "food_security",
+   "poverty",
+   "environment",
+   "circular_economy",
+   "social_inclusion"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit application file via the Simplified Procedures platform"
+  ],
+  "application_steps_fr": [
+   "Déposer le dossier de candidature via la plateforme Procédures Simplifiées"
+  ],
+  "required_documents_en": [
+   "National form",
+   "Provisional budget",
+   "N-1 financial statement",
+   "Bank details",
+   "SIRET number"
+  ],
+  "required_documents_fr": [
+   "Formulaire national",
+   "Budget prévisionnel",
+   "Compte financier N-1",
+   "Coordonnées bancaires",
+   "Numéro SIRET"
+  ],
+  "sector_focus_fr": "Chaîne d'approvisionnement solidaire, Projets Alimentaires Territoriaux (PAT), lutte contre le gaspillage alimentaire",
+  "eligible_org_type_fr": "Associations, réseaux solidaires, porteurs de projets PAT",
+  "funding_range_fr": "Non spécifié (selon les enveloppes d'appel)",
+  "deadline_cycle_fr": "Annuel",
+  "notes_fr": "Appel à projets axés sur la structuration des réseaux alimentaires solidaires.",
+  "summary_en": "The SNANC provides public grant subsidies to French associations, solidarity networks and PAT project leaders for solidarity food supply chain projects and food‑waste reduction.",
+  "summary_fr": "Le SNANC offre des subventions publiques aux associations françaises, aux réseaux solidaires et aux porteurs de projets PAT pour des projets de chaîne d'approvisionnement alimentaire solidaire et de lutte contre le gaspillage alimentaire.",
+  "_hash": "65901eccad7c3d68",
+  "amount_disclosed": false
+ },
+ {
+  "id": "priv-abbe-pierre",
+  "name": "Fondation Abbé Pierre - Accès aux Besoins Fondamentaux",
+  "organization": "Fondation Abbé Pierre",
+  "source_type": "private_foundation",
+  "categories": [
+   "private_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://www.fondation-abbe-pierre.fr/",
+  "source_verified_url": "https://www.fondation-abbe-pierre.fr/",
+  "sector_focus_en": "Combating extreme poverty, precariousness, access to basic needs and food",
+  "eligible_org_type_en": "Social action associations (governed by the 1901 law) providing emergency assistance",
+  "funding_range_en": "Variable depending on the project",
+  "deadline_cycle_en": "Annual / ongoing depending on the urgency",
+  "notes_en": "Priority should be given to projects with unconditional access for people in extreme poverty.",
+  "funding_type_en": "Grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "poverty",
+   "social_inclusion",
+   "food_security"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submitting your application to the FAP regional agencies"
+  ],
+  "application_steps_fr": [
+   "Soumettre votre candidature aux agences régionales de la FAP"
+  ],
+  "required_documents_en": [
+   "Presentation file",
+   "provisional budget",
+   "articles of association",
+   "certified accounts",
+   "bank details"
+  ],
+  "required_documents_fr": [
+   "Dossier de présentation",
+   "budget prévisionnel",
+   "statuts",
+   "comptes certifiés",
+   "coordonnées bancaires"
+  ],
+  "sector_focus_fr": "Lutte contre l'extrême pauvreté, la précarité, l'accès aux besoins fondamentaux et à l'alimentation",
+  "eligible_org_type_fr": "Associations d'action sociale (régies par la loi de 1901) offrant une aide d'urgence",
+  "funding_range_fr": "Variable selon le projet",
+  "deadline_cycle_fr": "Annuel / continu selon l'urgence",
+  "notes_fr": "La priorité doit être donnée aux projets assurant un accès inconditionnel aux personnes en situation d'extrême pauvreté.",
+  "summary_en": "The Fondation Abbé Pierre provides variable grant funding to French 1901‑law social action associations that deliver emergency assistance to people in extreme poverty.",
+  "summary_fr": "La Fondation Abbé Pierre offre un financement sous forme de subvention variable aux associations d'action sociale françaises régies par la loi de 1901 qui apportent une aide d'urgence aux personnes en situation d'extrême pauvreté.",
+  "_hash": "5c222949405af18c",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-le-roch",
+  "name": "Fondation Le Roch-Les Mousquetaires",
+  "organization": "Fondation Le Roch-Les Mousquetaires",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://www.fondation-lerochna.org/",
+  "source_verified_url": "https://www.fondation-lerochna.org/",
+  "sector_focus_en": "Local solidarity, local food aid, mutual aid equipment",
+  "eligible_org_type_en": "Locally rooted non-profit organizations",
+  "funding_range_en": "Variable depending on the project (equipment/materials)",
+  "deadline_cycle_en": "Annual / Regular sessions",
+  "notes_en": "Regular funding focused on equipment acquisition and local solidarity.",
+  "funding_type_en": "Grant",
+  "geography_en": "France (near Intermarché / Netto stores)",
+  "cause_areas": [
+   "food_security",
+   "poverty",
+   "social_inclusion"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit application to the foundation"
+  ],
+  "application_steps_fr": [
+   "Soumettre la candidature à la fondation"
+  ],
+  "required_documents_en": [
+   "Articles of association",
+   "SIRET number",
+   "Bank details",
+   "Equipment quote",
+   "Latest activity report"
+  ],
+  "required_documents_fr": [
+   "Statuts",
+   "Numéro SIRET",
+   "Coordonnées bancaires",
+   "Devis d'équipement",
+   "Rapport d'activité le plus récent"
+  ],
+  "sector_focus_fr": "Solidarité locale, aide alimentaire locale, équipements d'entraide",
+  "eligible_org_type_fr": "Organisations à but non lucratif ancrées localement",
+  "funding_range_fr": "Variable selon le projet (équipement/matériel)",
+  "deadline_cycle_fr": "Sessions annuelles / régulières",
+  "notes_fr": "Financement régulier axé sur l'acquisition d'équipements et la solidarité locale.",
+  "summary_en": "The Fondation Le Roch-Les Mousquetaires provides variable grants for equipment and local food aid to locally rooted non‑profit organisations in France.",
+  "summary_fr": "La Fondation Le Roch-Les Mousquetaires offre des subventions variables pour l'achat d'équipements et l'aide alimentaire locale aux organisations à but non lucratif ancrées localement en France.",
+  "_hash": "c39cdb0a8502daa9",
+  "amount_disclosed": false
+ },
+ {
+  "id": "priv-macif",
+  "name": "Fondation MACIF - Innovation Sociale & Mobilisation",
+  "organization": "Fondation d'entreprise MACIF",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://www.fondation-macif.org/",
+  "source_verified_url": "https://subventia.ai/guide/subvention-association-sociale",
+  "sector_focus_en": "Supportive housing, mobility, health, intergenerational connections and inclusion",
+  "eligible_org_type_en": "Social and solidarity economy associations governed by the 1901 law",
+  "funding_range_en": "5,000 EUR to 30,000 EUR",
+  "deadline_cycle_en": "Continuous (regional committees)",
+  "notes_en": "Strongly supports innovative projects that promote autonomy and social connection.",
+  "funding_type_en": "Grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "housing",
+   "health",
+   "social_inclusion",
+   "elderly",
+   "youth"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": 5000,
+  "grant_max_eur": 30000,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "rolling",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit application via the dedicated portal",
+   "Evaluation by the MACIF regional committee"
+  ],
+  "application_steps_fr": [
+   "Soumission via le portail dédié",
+   "Évaluation par le comité régional MACIF"
+  ],
+  "required_documents_en": [
+   "Articles of association",
+   "Bank details",
+   "Budget for the project",
+   "Certified accounts for the previous year (N-1)"
+  ],
+  "required_documents_fr": [
+   "Statuts",
+   "Coordonnées bancaires",
+   "Budget du projet",
+   "Comptes certifiés de l'année précédente (N-1)"
+  ],
+  "sector_focus_fr": "Logement solidaire, mobilité, santé, liens intergénérationnels et inclusion",
+  "eligible_org_type_fr": "Associations de l'économie sociale et solidaire régies par la loi de 1901",
+  "funding_range_fr": "5 000 € à 30 000 €",
+  "deadline_cycle_fr": "Continu (comités régionaux)",
+  "notes_fr": "Soutient fortement les projets innovants qui favorisent l'autonomie et le lien social.",
+  "summary_en": "The MACIF Foundation offers grants of €5,000‑€30,000 to French 1901 associations working on supportive housing, mobility, health and social inclusion, especially innovative projects that promote autonomy and social connection.",
+  "summary_fr": "La Fondation MACIF propose des subventions de 5 000 € à 30 000 € aux associations françaises de loi 1901 œuvrant dans le logement solidaire, la mobilité, la santé et l’inclusion sociale, notamment les projets innovants favorisant l’autonomie et le lien social.",
+  "_hash": "e814aff1cb6748e7",
+  "amount_disclosed": true
+ },
+ {
+  "id": "corp-systemeu",
+  "name": "Fondation Système U - Solidarité & Accès Alimentaire",
+  "organization": "Fondation d'entreprise Système U",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding",
+   "csr_programs"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "high",
+  "official_link": "https://www.magasins-u.com/",
+  "source_verified_url": "https://www.magasins-u.com/",
+  "sector_focus_en": "Local food aid, fighting hunger, support for food banks",
+  "eligible_org_type_en": "Non-profit organizations / food aid organizations",
+  "funding_range_en": "Variable depending on the project",
+  "deadline_cycle_en": "Continuous / Regular sessions",
+  "notes_en": "Historical partner of Action Against Hunger; direct support for local food drives and projects.",
+  "funding_type_en": "Product Subsidies / Sponsorship",
+  "geography_en": "France (local presence, Magasins U)",
+  "cause_areas": [
+   "food_security",
+   "poverty",
+   "social_inclusion",
+   "health"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "in_kind",
+   "support"
+  ],
+  "deadline_type": "rolling",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Establish local partnership with U stores",
+   "Submit deposit on the foundation portal"
+  ],
+  "application_steps_fr": [
+   "Établir un partenariat local avec les magasins U",
+   "Déposer la candidature sur le portail de la fondation"
+  ],
+  "required_documents_en": [
+   "Articles of association",
+   "SIRET number",
+   "Bank details",
+   "Local impact project",
+   "N-1 financial statements"
+  ],
+  "required_documents_fr": [
+   "Statuts",
+   "Numéro SIRET",
+   "Coordonnées bancaires",
+   "Projet d'impact local",
+   "Bilans financiers N-1"
+  ],
+  "sector_focus_fr": "Aide alimentaire locale, lutte contre la faim, soutien aux banques alimentaires",
+  "eligible_org_type_fr": "Organisations à but non lucratif / organisations d'aide alimentaire",
+  "funding_range_fr": "Variable selon le projet",
+  "deadline_cycle_fr": "Sessions continues / régulières",
+  "notes_fr": "Partenaire historique d'Action Against Hunger ; soutien direct aux collectes alimentaires locales et aux projets.",
+  "summary_en": "The Fondation Système U provides product subsidies and sponsorship to non‑profit food‑aid organisations in France to support local food banks and hunger‑fighting projects.",
+  "summary_fr": "La Fondation Système U offre des subventions en nature et du sponsoring aux organisations à but non lucratif d'aide alimentaire en France pour soutenir les banques alimentaires locales et les projets de lutte contre la faim.",
+  "_hash": "86e3712ade676fdb",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-daunat",
+  "name": "Fondation Daunat - Lutte contre la Précarité Alimentaire",
+  "organization": "Fondation d'entreprise Daunat",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding",
+   "csr_programs"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "high",
+  "official_link": "https://www.daunat.com/",
+  "source_verified_url": "https://www.daunat.com/",
+  "sector_focus_en": "General and student food assistance, donation of fresh produce (sandwiches, salads)",
+  "eligible_org_type_en": "Food aid associations, student networks (e.g., Linkee, Food Banks)",
+  "funding_range_en": "Variable (funding + food donations)",
+  "deadline_cycle_en": "Annual / watercourse",
+  "notes_en": "A very active agri-food industrialist in donating unsold fresh produce and providing financial support to student associations.",
+  "funding_type_en": "Product Subsidy / Donation",
+  "geography_en": "France",
+  "cause_areas": [
+   "food_waste",
+   "food_security",
+   "poverty",
+   "social_inclusion",
+   "youth",
+   "circular_economy"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [],
+  "accreditations_required": [
+   "aide_alimentaire"
+  ],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant",
+   "in_kind"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit partnership file to the Daunat Foundation"
+  ],
+  "application_steps_fr": [
+   "Soumettre le dossier de partenariat à la Fondation Daunat"
+  ],
+  "required_documents_en": [
+   "Articles of association",
+   "bank details",
+   "food aid/CASF approval",
+   "provisional budget"
+  ],
+  "required_documents_fr": [
+   "Statuts",
+   "coordonnées bancaires",
+   "approbation d'aide alimentaire/CASF",
+   "budget prévisionnel"
+  ],
+  "sector_focus_fr": "Assistance alimentaire générale et étudiante, don de produits frais (sandwichs, salades)",
+  "eligible_org_type_fr": "Associations d'aide alimentaire, réseaux étudiants (ex. Linkee, banques alimentaires)",
+  "funding_range_fr": "Variable (financement + dons alimentaires)",
+  "deadline_cycle_fr": "Annuel / cours d'eau",
+  "notes_fr": "Un industriel agroalimentaire très actif dans le don de produits frais invendus et le soutien financier aux associations étudiantes.",
+  "summary_en": "The Daunat corporate foundation provides variable financial grants and in‑kind fresh‑produce donations to food‑aid associations and student networks across France.",
+  "summary_fr": "La fondation d’entreprise Daunat offre des subventions financières variables et des dons de produits frais aux associations d’aide alimentaire et aux réseaux étudiants sur l’ensemble du territoire français.",
+  "_hash": "f3832ae7dbd1a9aa",
+  "amount_disclosed": false
+ },
+ {
+  "id": "priv-actiontank-malin",
+  "name": "Programme Malin - Nutrition Infantile Solidaire",
+  "organization": "Action Tank Entreprise et Pauvreté",
+  "source_type": "private_foundation",
+  "categories": [
+   "private_funding",
+   "csr_programs"
+  ],
+  "fit": "food_aid_specific",
+  "confidence": "high",
+  "official_link": "https://www.programme-malin.com/",
+  "source_verified_url": "https://www.programme-malin.com/",
+  "sector_focus_en": "Nutrition for children under 3 years old, budget support and access to infant products",
+  "eligible_org_type_en": "Parenting support associations, solidarity grocery stores, community centers",
+  "funding_range_en": "Variable depending on local project",
+  "deadline_cycle_en": "Regular calls for projects",
+  "notes_en": "High-impact niche: targeted funding and vouchers for maternal and infant nutrition for low-income families.",
+  "funding_type_en": "Subsidies / Vouchers / Training",
+  "geography_en": "France",
+  "cause_areas": [
+   "food_security",
+   "health",
+   "poverty",
+   "social_inclusion"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant",
+   "support"
+  ],
+  "deadline_type": "periodic",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Call for projects",
+   "Territorial partnership via the Action Tank"
+  ],
+  "application_steps_fr": [
+   "Appel à projets",
+   "Partenariat territorial via l'Action Tank"
+  ],
+  "required_documents_en": [
+   "Articles of association",
+   "SIRET number",
+   "Bank details",
+   "Action plan targeting early childhood",
+   "Financial statements"
+  ],
+  "required_documents_fr": [
+   "Statuts",
+   "Numéro SIRET",
+   "Coordonnées bancaires",
+   "Plan d'action ciblant la petite enfance",
+   "Bilans financiers"
+  ],
+  "sector_focus_fr": "Nutrition pour les enfants de moins de 3 ans, soutien budgétaire et accès aux produits pour bébés",
+  "eligible_org_type_fr": "Associations d'accompagnement parental, épiceries solidaires, centres communautaires",
+  "funding_range_fr": "Variable selon le projet local",
+  "deadline_cycle_fr": "Appels à projets réguliers",
+  "notes_fr": "Créneau à fort impact : financement ciblé et bons pour la nutrition maternelle et infantile destiné aux familles à faibles revenus.",
+  "summary_en": "The Programme Malin offers subsidies, vouchers and training to support nutrition for children under three, targeting low‑income families through parenting associations and community partners.",
+  "summary_fr": "Le Programme Malin propose des subventions, des bons et des formations pour soutenir la nutrition des enfants de moins de trois ans, ciblant les familles à faibles revenus via des associations d’accompagnement parental et des partenaires communautaires.",
+  "_hash": "c3b45a3dc364d2ea",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-nexity",
+  "name": "Fondation Nexity - Logement & Inclusivité",
+  "organization": "Fondation d'entreprise Nexity",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "https://fondation.nexity.fr/",
+  "source_verified_url": "https://fondation.nexity.fr/",
+  "sector_focus_en": "Accommodation, social inclusion, co-financing of emergency actions (including food aid)",
+  "eligible_org_type_en": "Social action associations governed by the 1901 law (e.g., Secours Populaire)",
+  "funding_range_en": "5,000 EUR to 20,000 EUR",
+  "deadline_cycle_en": "Annual / Thematic sessions",
+  "notes_en": "It takes a comprehensive housing/integration approach, but very often co-finances food components with its partner associations.",
+  "funding_type_en": "Grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "housing",
+   "social_inclusion",
+   "food_security"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": 5000,
+  "grant_max_eur": 20000,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Respond to calls for projects on the Nexity Foundation portal"
+  ],
+  "application_steps_fr": [
+   "Répondre aux appels à projets sur le portail de la Fondation Nexity"
+  ],
+  "required_documents_en": [
+   "Articles of association",
+   "bank details",
+   "certified accounts for the previous year",
+   "description of the solidarity project"
+  ],
+  "required_documents_fr": [
+   "Statuts",
+   "coordonnées bancaires",
+   "comptes certifiés de l'année précédente",
+   "description du projet solidaire"
+  ],
+  "sector_focus_fr": "Logement, inclusion sociale, cofinancement d'actions d'urgence (y compris l'aide alimentaire)",
+  "eligible_org_type_fr": "Associations d'action sociale régies par la loi de 1901 (par ex. Secours Populaire)",
+  "funding_range_fr": "5 000 € à 20 000 €",
+  "deadline_cycle_fr": "Annuel / Sessions thématiques",
+  "notes_fr": "Il adopte une approche globale logement/intégration, mais cofinance très souvent les composantes alimentaires avec ses associations partenaires.",
+  "summary_en": "The Nexity Foundation provides grants of €5,000‑€20,000 to French 1901 associations working on housing, social inclusion and emergency food aid.",
+  "summary_fr": "La Fondation Nexity accorde des subventions de 5 000 € à 20 000 € aux associations françaises de loi 1901 œuvrant dans le logement, l’inclusion sociale et l’aide alimentaire d’urgence.",
+  "_hash": "91dec0c73390bad5",
+  "amount_disclosed": true
+ },
+ {
+  "id": "priv-apprentis-auteuil",
+  "name": "Fondation Apprentis d'Auteuil (via Fondations Abritées)",
+  "organization": "Fondation Apprentis d'Auteuil",
+  "source_type": "private_foundation",
+  "categories": [
+   "private_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://www.apprentis-auteuil.org/",
+  "source_verified_url": "https://www.apprentis-auteuil.org/",
+  "sector_focus_en": "Vulnerable youth, education, socio-professional integration, and access to basic needs",
+  "eligible_org_type_en": "Partner associations/projects targeting young people and families in precarious situations",
+  "funding_range_en": "Variable depending on the project",
+  "deadline_cycle_en": "Ongoing / Thematic calls",
+  "notes_en": "Supports comprehensive support actions for young people (including the food/subsistence component in integration pathways).",
+  "funding_type_en": "Grant / Sponsorship / Partnership",
+  "geography_en": "France + International",
+  "cause_areas": [
+   "food_security",
+   "poverty",
+   "social_inclusion",
+   "employment",
+   "education",
+   "youth"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "rolling",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit project via hosted foundations (e.g., Fondation Un pas avec toi)",
+   "Submit project via ESF+ calls for proposals"
+  ],
+  "application_steps_fr": [
+   "Soumettre le projet via les fondations hébergées (ex. Fondation Un pas avec toi)",
+   "Soumettre le projet via les appels à projets ESF+"
+  ],
+  "required_documents_en": [
+   "Application file",
+   "Statutes",
+   "Integration/youth project",
+   "Provisional budget"
+  ],
+  "required_documents_fr": [
+   "Dossier de candidature",
+   "Statuts",
+   "Projet d’intégration/jeunes",
+   "Budget prévisionnel"
+  ],
+  "sector_focus_fr": "Jeunes en situation de vulnérabilité, éducation, insertion socio‑professionnelle et accès aux besoins fondamentaux",
+  "eligible_org_type_fr": "Associations/ projets partenaires ciblant les jeunes et les familles en situation de précarité",
+  "funding_range_fr": "Variable selon le projet",
+  "deadline_cycle_fr": "En continu / appels thématiques",
+  "notes_fr": "Soutient des actions d’accompagnement globales pour les jeunes (y compris la composante alimentaire/subsistance dans les parcours d’insertion).",
+  "summary_en": "The Fondation Apprentis d'Auteuil provides variable‑size grants, sponsorships and partnerships to associations supporting vulnerable youth, their education, socio‑professional integration and basic needs in France and internationally.",
+  "summary_fr": "La Fondation Apprentis d'Auteuil offre des subventions, parrainages et partenariats de montants variables aux associations qui soutiennent les jeunes en situation de vulnérabilité, leur éducation, leur insertion socio‑professionnelle et leurs besoins fondamentaux en France et à l’international.",
+  "_hash": "b207708e955bfcac",
+  "amount_disclosed": false
+ },
+ {
+  "id": "priv-caritas",
+  "name": "Fondation Caritas France - Lutte contre la Pauvreté",
+  "organization": "Fondation Caritas France (sous égide Secours Catholique)",
+  "source_type": "private_foundation",
+  "categories": [
+   "private_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://www.fondationcaritasfrance.org/",
+  "source_verified_url": "https://www.fondationcaritasfrance.org/projets-et-financement/soumettez-votre-projet/",
+  "sector_focus_en": "Combating exclusion, housing, integration through employment, reception centers and food",
+  "eligible_org_type_en": "Associations governed by the 1901 law and of general interest (less than 2 years old for the Young Shoots Prize)",
+  "funding_range_en": "Variable (e.g., Young Startups Prize for associations <2 years old / <€250k budget)",
+  "deadline_cycle_en": "Targeted sessions / Annual Young Shoots Award",
+  "notes_en": "A major patron of grassroots social action; favours structuring multi-year partnerships and emerging associative ventures.",
+  "funding_type_en": "Grant (multi-year / operating)",
+  "geography_en": "France (focus outside major metropolitan areas) + International",
+  "cause_areas": [
+   "poverty",
+   "social_inclusion",
+   "housing",
+   "employment",
+   "food_security"
+  ],
+  "regions": [
+   "national",
+   "europe"
+  ],
+  "geo_scope": "international",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [
+   "interet_general"
+  ],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": 250000,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Targeted partnerships",
+   "Young Startups competitions"
+  ],
+  "application_steps_fr": [
+   "Partenariats ciblés",
+   "Concours Young Startups"
+  ],
+  "required_documents_en": [
+   "Articles of association",
+   "Bank details",
+   "Certified annual accounts",
+   "Social action/accommodation file"
+  ],
+  "required_documents_fr": [
+   "Statuts",
+   "Coordonnées bancaires",
+   "Comptes annuels certifiés",
+   "Dossier d'action sociale/hébergement"
+  ],
+  "sector_focus_fr": "Lutte contre l'exclusion, le logement, l'intégration par l'emploi, les centres d'accueil et l'alimentation",
+  "eligible_org_type_fr": "Associations régies par la loi de 1901 et d'intérêt général (moins de 2 ans d'existence pour le Prix Young Shoots)",
+  "funding_range_fr": "Variable (par ex. Prix Young Startups pour les associations de moins de 2 ans / budget < 250 k€)",
+  "deadline_cycle_fr": "Sessions ciblées / Prix Young Shoots annuel",
+  "notes_fr": "Mécène majeur de l'action sociale de terrain ; privilégie les partenariats pluriannuels structurants et les projets associatifs émergents.",
+  "summary_en": "The Fondation Caritas France provides multi‑year operating grants up to €250,000 to French 1901 associations working on poverty, social inclusion, housing, employment and food‑related projects, especially new ventures.",
+  "summary_fr": "La Fondation Caritas France offre des subventions de fonctionnement pluriannuelles allant jusqu'à 250 000 € aux associations françaises de droit 1901 œuvrant contre la pauvreté, l'exclusion sociale, le logement, l'emploi et les projets liés à l'alimentation, en particulier aux nouvelles structures.",
+  "_hash": "addf18d81ab320d5",
+  "amount_disclosed": true
+ },
+ {
+  "id": "corp-transdev",
+  "name": "Fondation Transdev",
+  "organization": "Transdev",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "https://fondation.transdev.com/",
+  "source_verified_url": "https://fondation.transdev.com/",
+  "sector_focus_en": "Social inclusion, employment, mobility, support for vulnerable populations",
+  "eligible_org_type_en": "Associations / organisations of general interest",
+  "funding_range_en": "Up to €12,000 reported for project support",
+  "deadline_cycle_en": "Annual / periodic",
+  "notes_en": "Useful for associations where food aid is linked to mobility, employment or social inclusion. Employee sponsorship requirement can be a key eligibility constraint.",
+  "funding_type_en": "Grant / project funding",
+  "geography_en": "France",
+  "cause_areas": [
+   "social_inclusion",
+   "employment",
+   "poverty",
+   "food_security"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": 12000,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Call for projects / project submission",
+   "Obtain a Transdev employee sponsor"
+  ],
+  "application_steps_fr": [
+   "Appel à projets / soumission de projet",
+   "Obtenir le parrainage d'un employé Transdev"
+  ],
+  "required_documents_en": [
+   "Programme-specific application dossier"
+  ],
+  "required_documents_fr": [
+   "Dossier de candidature spécifique au programme"
+  ],
+  "sector_focus_fr": "Inclusion sociale, emploi, mobilité, soutien aux populations vulnérables",
+  "eligible_org_type_fr": "Associations / organisations d'intérêt général",
+  "funding_range_fr": "Jusqu'à 12 000 € pour le soutien de projets",
+  "deadline_cycle_fr": "Annuel / périodique",
+  "notes_fr": "Utiles pour les associations où l'aide alimentaire est liée à la mobilité, à l'emploi ou à l'inclusion sociale. L'exigence d'un parrainage par un employé peut constituer une contrainte d'éligibilité importante.",
+  "summary_en": "The Fondation Transdev provides up to €12,000 in grant funding for French associations working on social inclusion, employment, mobility and vulnerable populations, especially when linked to food aid.",
+  "summary_fr": "La Fondation Transdev offre jusqu'à 12 000 € de subvention aux associations françaises œuvrant pour l'inclusion sociale, l'emploi, la mobilité et les populations vulnérables, notamment lorsque l'aide alimentaire est liée à ces thématiques.",
+  "_hash": "25861802eea2212b",
+  "amount_disclosed": true
+ },
+ {
+  "id": "corp-sfr",
+  "name": "Fondation SFR / SFR Solidaire",
+  "organization": "SFR",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "medium",
+  "official_link": "https://www.sfr.com/",
+  "source_verified_url": "https://www.sfr.com/",
+  "sector_focus_en": "Social inclusion, equality, solidarity, digital and social empowerment",
+  "eligible_org_type_en": "Associations / ESS organisations / eligible public-interest structures",
+  "funding_range_en": "€5,000–€10,000 reported for the 2026 programme",
+  "deadline_cycle_en": "Annual / periodic",
+  "notes_en": "Not food-specific. More relevant when a food-aid association also has a digital inclusion, equality or social-inclusion component.",
+  "funding_type_en": "Grant",
+  "geography_en": "France",
+  "cause_areas": [
+   "social_inclusion",
+   "gender_equality",
+   "education"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": 5000,
+  "grant_max_eur": 10000,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Call for projects",
+   "Online application"
+  ],
+  "application_steps_fr": [
+   "Appel à projets",
+   "Candidature en ligne"
+  ],
+  "required_documents_en": [
+   "Programme-specific application dossier"
+  ],
+  "required_documents_fr": [
+   "Dossier de candidature spécifique au programme"
+  ],
+  "sector_focus_fr": "Inclusion sociale, égalité, solidarité, inclusion numérique et sociale",
+  "eligible_org_type_fr": "Associations / organisations ESS / structures d'intérêt public éligibles",
+  "funding_range_fr": "€5 000–€10 000 prévu pour le programme 2026",
+  "deadline_cycle_fr": "Annuel / périodique",
+  "notes_fr": "Pas spécifiquement lié à l'alimentation. Plus pertinent lorsqu'une association d'aide alimentaire possède également un volet d'inclusion numérique, d'égalité ou d'inclusion sociale.",
+  "summary_en": "The SFR Solidaire foundation offers grants of €5,000–€10,000 to French associations and ESS organisations working on social inclusion, equality, solidarity and digital empowerment.",
+  "summary_fr": "La fondation SFR Solidaire propose des subventions de 5 000 à 10 000 € aux associations et organisations ESS françaises œuvrant pour l'inclusion sociale, l'égalité, la solidarité et l'inclusion numérique.",
+  "_hash": "ee53f564279d8d85",
+  "amount_disclosed": true
+ },
+ {
+  "id": "corp-cmne",
+  "name": "Fondation Crédit Mutuel Nord Europe",
+  "organization": "Fondation Crédit Mutuel Nord Europe",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://www.creditmutuel.com/fr/mecenat-et-fondations-en-region/fondation-cmne.html",
+  "source_verified_url": "https://www.creditmutuel.com/fr/mecenat-et-fondations-en-region/fondation-cmne.html",
+  "sector_focus_en": "Social action, exclusion, inclusion, sustainable development, entrepreneurship",
+  "eligible_org_type_en": "Associations / organisations of general interest",
+  "funding_range_en": "Not publicly specified",
+  "deadline_cycle_en": "Annual / periodic",
+  "notes_en": "Strong regional funder for social inclusion and exclusion. Geographic eligibility should be matched against the charity's location. The foundation has supported vulnerable and socially excluded populations.",
+  "funding_type_en": "Grant / project support",
+  "geography_en": "France, primarily Hauts-de-France, Marne and Ardennes",
+  "cause_areas": [
+   "social_inclusion",
+   "poverty",
+   "environment",
+   "climate",
+   "circular_economy",
+   "employment"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Respond to call for projects",
+   "Submit foundation application"
+  ],
+  "application_steps_fr": [
+   "Répondre à l'appel à projets",
+   "Soumettre la candidature à la fondation"
+  ],
+  "required_documents_en": [
+   "Programme-specific application dossier"
+  ],
+  "required_documents_fr": [
+   "Dossier de candidature spécifique au programme"
+  ],
+  "sector_focus_fr": "Action sociale, exclusion, inclusion, développement durable, entrepreneuriat",
+  "eligible_org_type_fr": "Associations / organisations d'intérêt général",
+  "funding_range_fr": "Non spécifié publiquement",
+  "deadline_cycle_fr": "Annuel / périodique",
+  "notes_fr": "Fonds régional fort pour l'inclusion et l'exclusion sociales. L'éligibilité géographique doit être adaptée à la localisation de l'association. La fondation a soutenu les populations vulnérables et socialement exclues.",
+  "summary_en": "The Fondation Crédit Mutuel Nord Europe provides grant funding for social inclusion projects across France, targeting associations and general interest organisations.",
+  "summary_fr": "La Fondation Crédit Mutuel Nord Europe offre des subventions pour des projets d'inclusion sociale à travers la France, à destination des associations et organisations d'intérêt général.",
+  "_hash": "f16bdd13657e73cf",
+  "amount_disclosed": false
+ },
+ {
+  "id": "corp-celc",
+  "name": "Fondation d'entreprise Caisse d'Épargne Loire-Centre",
+  "organization": "Caisse d'Épargne Loire-Centre",
+  "source_type": "corporate_foundation",
+  "categories": [
+   "corporate_funding"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://projets.celc.caisse-epargne.fr/",
+  "source_verified_url": "https://projets.celc.caisse-epargne.fr/",
+  "sector_focus_en": "Social inclusion, autonomy, socio-professional integration, support for vulnerable people",
+  "eligible_org_type_en": "Associations, foundations and other organisations of general interest",
+  "funding_range_en": "Not publicly specified",
+  "deadline_cycle_en": "Annual / periodic",
+  "notes_en": "Regional rather than national. 2026 programme supported solidarity projects in Centre-Val de Loire, including socio-professional integration and support for vulnerable people.",
+  "funding_type_en": "Grant / project funding",
+  "geography_en": "Centre-Val de Loire",
+  "cause_areas": [
+   "social_inclusion",
+   "employment",
+   "poverty",
+   "disability",
+   "elderly"
+  ],
+  "regions": [
+   "centre_val_de_loire"
+  ],
+  "geo_scope": "regional",
+  "legal_status_required": [
+   "association_1901",
+   "fondation",
+   "other"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Submit application via the foundation's online platform"
+  ],
+  "application_steps_fr": [
+   "Soumettre la candidature via la plateforme en ligne de la fondation"
+  ],
+  "required_documents_en": [
+   "Programme-specific application dossier"
+  ],
+  "required_documents_fr": [
+   "Dossier de candidature spécifique au programme"
+  ],
+  "sector_focus_fr": "Inclusion sociale, autonomie, intégration socio‑professionnelle, soutien aux personnes vulnérables",
+  "eligible_org_type_fr": "Associations, fondations et autres organisations d'intérêt général",
+  "funding_range_fr": "Non spécifié publiquement",
+  "deadline_cycle_fr": "Annuel / périodique",
+  "notes_fr": "Programme régional plutôt que national. Le programme 2026 soutient des projets de solidarité en Centre-Val de Loire, incluant l'intégration socio‑professionnelle et le soutien aux personnes vulnérables.",
+  "summary_en": "The Caisse d'Épargne Loire-Centre corporate foundation provides grant funding for solidarity projects focused on social inclusion, autonomy and socio‑professional integration for vulnerable people in the Centre‑Val de Loire region.",
+  "summary_fr": "La fondation d’entreprise Caisse d’Épargne Loire‑Centre offre des subventions pour des projets solidaires axés sur l’inclusion sociale, l’autonomie et l’intégration socio‑professionnelle des personnes vulnérables dans la région Centre‑Val de Loire.",
+  "_hash": "1eecce7e2cf74310",
+  "amount_disclosed": false
+ },
+ {
+  "id": "pub-ass-maladie",
+  "name": "Fonds d'action sanitaire et sociale – Assurance Maladie",
+  "organization": "Caisse nationale de l'Assurance Maladie / Assurance Maladie",
+  "source_type": "public_grant",
+  "categories": [
+   "french_grants"
+  ],
+  "fit": "general_solidarity_eligible",
+  "confidence": "high",
+  "official_link": "https://www.assurance-maladie.ameli.fr/qui-sommes-nous/notre-fonctionnement/financement/fonds-d-action-sanitaire-et-sociale-appel-projets-2026",
+  "source_verified_url": "https://www.assurance-maladie.ameli.fr/qui-sommes-nous/notre-fonctionnement/financement/fonds-d-action-sanitaire-et-sociale-appel-projets-2026",
+  "sector_focus_en": "Access to rights and healthcare, social and health vulnerability, reduction of social inequalities",
+  "eligible_org_type_en": "Associations / foundations with non-profit status and eligible public-interest activities",
+  "funding_range_en": "Not publicly specified",
+  "deadline_cycle_en": "Annual / programme-dependent",
+  "notes_en": "Not a food-aid fund. Relevant only where food insecurity is connected to health/social vulnerability. The 2026 national call explicitly excluded structural operating costs and investments.",
+  "funding_type_en": "Subvention publique",
+  "geography_en": "France",
+  "cause_areas": [
+   "health",
+   "social_inclusion",
+   "poverty"
+  ],
+  "regions": [
+   "national"
+  ],
+  "geo_scope": "national",
+  "legal_status_required": [
+   "association_1901",
+   "fondation"
+  ],
+  "accreditations_required": [],
+  "min_org_age_years": null,
+  "grant_min_eur": null,
+  "grant_max_eur": null,
+  "cofinancing_required_pct": null,
+  "requires_english": false,
+  "requires_partner_abroad": false,
+  "support_types": [
+   "grant"
+  ],
+  "deadline_type": "annual",
+  "complexity": "medium",
+  "application_steps_en": [
+   "Call for projects",
+   "Submit application to Assurance Maladie",
+   "Consider local CPAM programmes if applicable"
+  ],
+  "application_steps_fr": [
+   "Appel à projets",
+   "Soumission à l'Assurance Maladie",
+   "Programmes locaux de la CPAM éventuels"
+  ],
+  "required_documents_en": [
+   "Cerfa 12156-06",
+   "statutes",
+   "declaration",
+   "board list",
+   "N-1 financial accounts",
+   "activity report",
+   "URSSAF certificate",
+   "RIB",
+   "Republican Commitment contract",
+   "relevant quotations"
+  ],
+  "required_documents_fr": [
+   "Cerfa 12156-06",
+   "statuts",
+   "déclaration",
+   "liste du conseil d'administration",
+   "comptes financiers N-1",
+   "rapport d'activité",
+   "attestation URSSAF",
+   "RIB",
+   "contrat d'engagement républicain",
+   "devis pertinents"
+  ],
+  "sector_focus_fr": "Accès aux droits et aux soins de santé, vulnérabilité sociale et sanitaire, réduction des inégalités sociales",
+  "eligible_org_type_fr": "Associations / fondations avec statut non lucratif et activités d'intérêt général éligibles",
+  "funding_range_fr": "Non spécifié publiquement",
+  "deadline_cycle_fr": "Annuel / dépend du programme",
+  "notes_fr": "Pas un fonds d'aide alimentaire. Pertinent uniquement lorsque l'insécurité alimentaire est liée à la vulnérabilité sanitaire/sociale. L'appel national 2026 excluait explicitement les coûts de fonctionnement structurels et les investissements.",
+  "summary_en": "The Fonds d'action sanitaire et sociale provides public grants to non‑profit associations and foundations in France to support health‑related and social vulnerability projects, excluding structural operating costs.",
+  "summary_fr": "Le Fonds d'action sanitaire et sociale offre des subventions publiques aux associations et fondations à but non lucratif en France pour soutenir des projets liés à la santé et à la vulnérabilité sociale, à l'exclusion des coûts de fonctionnement structurels.",
+  "_hash": "9daea7da63e39dce",
+  "amount_disclosed": false
+ }
+]
