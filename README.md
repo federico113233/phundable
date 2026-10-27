@@ -1,16 +1,52 @@
-# Phundable — grant & funding finder for charities
+# Phundable: grant matching that shows its reasoning
 
-A bilingual (FR/EN) web app that helps charities find funding they're actually
-eligible for, understand *why* they match, and generate their application
-documents.
+**Built in 4 days at the HEC Paris AI-ckathon (Sept 2026), on a brief from Phenix, the French anti-food-waste company.**
+**My role:** product design and UX, plus the clickable prototype. I designed the end-to-end flow and the scoring explanations, and built the prototype the team pitched to the jury. Team of six HEC Paris students.
 
-One onboarding → a transparent 1–10 compatibility score against 5 funding
-families → the individual funders inside each → a guided application walkthrough
-→ six `.docx` documents pre-filled from the charity's own answers.
-
-Built on the Phenix brand kit in the parent folder (Ambit, `#F74039`, `#310200`).
+![Phundable landing page](docs/screenshots/landing.png)
 
 ---
+
+## The problem
+
+Phenix's own deck describes four ways out for an unsold product: sell it, give it, feed it to animals, or destroy it. The "give it" step depends on charities, and a charity can only collect surplus food if it can fund the vans, the cold chain and the volunteers that make collection possible.
+
+For a small charity, finding the right funder is a separate unpaid research project. Every application takes weeks, and most of those weeks go to funders the charity was never eligible for. The question it actually needs answered is: *"Who will realistically say yes to us, and why?"*
+
+**Users:** small and mid-size French charities, often run by volunteers with no grant writer.
+
+## Design principles
+
+1. **A score you can interrogate.** A charity deciding where to spend three weeks of effort needs more than a number. Every score breaks down into six dimensions: theme, geography, eligibility, capacity, size and timing. Each one comes with the sentence that explains it.
+2. **Unknown never looks like a match.** When a funder doesn't publish a condition, that dimension isn't shown as excellent: we couldn't verify the match, so we don't claim it. When a hard eligibility condition fails, the score is capped and the screen says exactly which condition blocks it.
+3. **Paying funders can't buy a higher score.** Companies pay to be listed. The scoring rules ignore whether a funder is a partner, and charities are told this in plain language.
+4. **The AI drafts, the charity decides.** AI-generated documents are drafts built only from the charity's own answers, and each one carries a review notice. The score itself never comes from the model; it comes from transparent rules.
+
+## The flow
+
+**1. One onboarding, five short steps.** Organisation, mission, size and territory, funding capacity, and the project that needs funding. Every field says why it is asked, either to score the charity or to write its documents. For a live demo, three sample charities fill the form in one click. They were chosen to score differently, so the jury could see the engine discriminate.
+
+![Onboarding](docs/screenshots/onboarding.png)
+
+**2. Five funding families, scored.** French grants, EU grants, corporate funding, private foundations and CSR programmes. Each family shows its score, how many opportunities it contains and how many of them the charity is eligible for.
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+**3. Why this score.** Each funder page puts the reasoning next to the number, then gives step-by-step guidance on how to apply. From there the charity generates six pre-filled documents (`.docx`) in French or English, ready to review.
+
+![Funder detail with score breakdown](docs/screenshots/detail.png)
+
+## Outcome
+
+In four days the team went from brief to a working, bilingual (FR/EN) prototype that runs on real data: 48 researched funders, live scoring and document generation. We presented it in a 6-minute pitch with a live demo, against a jury brief that weighted relevance to fighting waste, explicit use of AI, business value, pilot feasibility and scalability.
+
+**What I'd do next:** test the onboarding with three or four real charities, to see which questions they can't answer quickly. The data also showed that most funders don't publish hard criteria, so the biggest gain in accuracy would come from better data, not better code.
+
+> *Prototype built for a hackathon. Not an official Phenix product. The funders shown as platform partners are real foundations used as illustrative examples; none of them is a customer.*
+
+---
+
+# Technical documentation
 
 ## Run it
 
